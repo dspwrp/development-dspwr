@@ -1,0 +1,88 @@
+---
+title: 'Suggested Categories'
+fieldset: default
+id: 7e535faf-6f08-43a2-a1ee-7e1c5facd40d
+---
+- Experts
+   -- Members
+- Audience
+   - experts
+   -- neuroscientists
+   -- infants
+   -- kids
+   -- adults
+   -- seniors
+   -- educators
+   -- caregivers
+   -- students
+   -- patients
+   -- laws
+   -- policy makers
+- Resources
+   -- external
+- Topics
+- Tags
+- Taxonomy
+- Articles
+- Neuroscience
+- Brain Health
+- The Brain
+- News
+- Announcements
+- Awards
+- Events
+   -- talks
+   -- conferences
+- Education
+- Programs
+- Brain Term "table of contents for brain terms act as wiki"
+- Brain Disease and Disorder
+- Deep Dive
+- Opinions
+   -- questions and answeres
+   -- interviews
+       --- dana search the news archive title for "interview with..."
+- Conversations
+   -- In The Lab
+- Spotted
+- Emerging Tools
+- Publications
+   -- digital
+   -- books
+       --- dabi members
+   -- categories
+   -- dabi
+   -- edab
+   -- education
+   -- audience
+       --- infants
+       --- kids
+       --- adults
+       --- seniors
+       --- educators
+            ---- teachers
+                  ----- lessonplans
+                         ----- grades 6-8
+       --- factsheets
+       --- puzzles
+       --- primers       
+- Blog
+- Wiki
+- Report on Progress
+- Progress Report
+   -- Impact
+   -- Achievements
+   -- Milestones
+- Policymakers
+
+- Synonyms 
+   -- briefing papers as research findings in at dana as brainwork
+   -- primers as basics, introduction, beginner, kids
+   
+- Modeling Categories
+   -- Community 
+   -- Community as to Connect, share and learn
+       --- Get Involved
+       --- Get Involved as Write for The Dana Foundation
+       --- Get Involved as Join us at a Meetup
+ 
