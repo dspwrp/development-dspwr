@@ -1,0 +1,20 @@
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        display: Title
+        type: text
+        localizable: true
+      list_date:
+        type: text
+        display: list_date
+      list_title_url:
+        type: text
+        display: list_title_url
+      list_description:
+        type: text
+        display: list_description
+taxonomies: false
+title: Video
+create_title: 'New Video'
