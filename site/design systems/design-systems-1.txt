@@ -1,0 +1,129 @@
+--- Links Menu --- 
+-- Header --
+<ul id="menu-home">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-neuroscience">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-the-brain">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-brain-health">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-programs-initiatives">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-education">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-grants">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-blog">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-more">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-social-media">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-search">
+  <li>xxx</li> 
+</ul>
+
+-- Header --
+-- Others --
+<ul id="menu-about">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-news">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-events">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-videos">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-podcasts">
+  <li>xxx</li> 
+</ul>
+
+-- Hero --
+<ul id="hero-home">
+  <li>xxx</li> 
+</ul>
+
+-- Content --
+-- Blocks --
+-- management --
+<ul id="blocks">
+  <li>header</li> 
+    <li>social media</li>
+    <li>search</li>
+  <li>hero</li> 
+  <li>content</li>
+    <li>article cards</li> 
+  	<li>videos</li>
+  	<li>podcasts</li> 
+  	<li>events</li> 
+  	<li>sign-up-form</li>  
+  <li>footer</li> 
+    <li>about</li>
+    <li>address</li>
+    <li>support</li>
+    <li>social media</li>
+  <li>others</li>
+</ul>
+
+-- Footer --
+<ul class="footer-about">
+  <li><a href="#">About</a></li> 
+</ul>
+
+<ul id="footer-address">
+<span><a class="street-address">Address</a></span> <br />
+  <li><a class="city-state-zip">City, State Zipcode</a></li> 
+  <li><a class="phone">Phone: 000-000-0000</a></li> 
+  <li><a class="fax">Fax: 000-000-0000</a></li> 
+</ul>
+
+<ul class="footer-support">
+  <li><a>Feedback</a></li> 
+</ul>
+
+<ul class="footer-legal">
+  <li><a>Privacy Policy</a></li> 
+</ul>
+
+<ul class="footer-social-media">
+  <li><a>Social Media</a></li> 
+</ul>
+
+
+
+--- Links ---
+-- audience --
+-- audience --
+-- audience --
+-- audience --
+-- audience --
+
+
