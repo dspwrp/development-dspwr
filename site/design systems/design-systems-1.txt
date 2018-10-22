@@ -1,53 +1,171 @@
---- Links Menu --- 
+# = menu links
+
+*f = flows 
+*c = categories 
+*p = pages  
+*cc = collections 
+
+--- Links --- 
+--- Menu --- 
+--- collections ---
 -- Header --
 <ul id="menu-home">
-  <li>xxx</li> 
+	#home 
 </ul>
 
-<ul id="menu-neuroscience">
-  <li>xxx</li> 
+<ul id="menu-neuroscience" data value="neuroscience-collections">
+   	neuroscience 
+	audiences 
+	resources
+	articles *
+	education *
+	news *
+	events *
+	publications *
+	videos *
+	podcasts *
+	reports 
+	audiences 
+	experts "members"
+	grants 
+	QA *
+	ethics
+	neuro education 
+	archive
+	interview *
+	 
+	education 
+	programs 
+	primers 
+
+    programs * 
+
+	cerebrum
+	news
+	brain-in-news
+	progress reports
+ 
+	tags 
+	  Xxx
+	others
 </ul>
 
 <ul id="menu-the-brain">
-  <li>xxx</li> 
+	the-brain 
+	fun-facts
+
+    create-new-content
+	  the-brain
+	  brain-primer
+	  interactions
 </ul>
 
-<ul id="menu-brain-health">
-  <li>xxx</li> 
+<ul id="menu-health" data value="health-collections">
+	health 
+	resources 
+	  brain-connections
+	  external-resources
+
+    create-new-content
+	  audiences
+	  resources
+	    health
+	    brain games
+</ul>
+
+<ul id="menu-brain-health" data value="brain-health-collections"> 
+	brain-health 
+	create-new-content
+	  brain-health
+	  nutrition
 </ul>
 
 <ul id="menu-programs-initiatives">
-  <li>xxx</li> 
+	programs 
+	initiatives 
+	audiences
+	resources
 </ul>
 
-<ul id="menu-education">
-  <li>xxx</li> 
+<ul id="menu-education" data value="education-collections">
+	education
+	audiences
+	  educators 
+	resources 
+	  publications 
+	  lessons
+      neuro-education
+
+    create-new-content
+	  audiences
+	  resources 
 </ul>
 
-<ul id="menu-grants">
-  <li>xxx</li> 
+<ul id="menu-publication" data value="publication-collections">
+    publications 
+	audiences 
+	resources 
+	programs 
+	news 
+	QA
+	cerebrum 
+	brain-disorders
+	brain-connections 
+	books
+	ebooks
+	article 
+	local 
+	brain in the news 
+	tags 
+	  Xxx 
+</ul>
+
+<ul id="menu-grants" data value="publication-collections">
+ 	grants
+	audiences 
+	resources  
+	QA
 </ul>
 
 <ul id="menu-blog">
-  <li>xxx</li> 
+	blog 
 </ul>
 
-<ul id="menu-more">
-  <li>xxx</li> 
+<ul id="menu-more" data value="more-collections">
+	more
 </ul>
 
 <ul id="menu-social-media">
-  <li>xxx</li> 
+	social media 
 </ul>
 
 <ul id="menu-search">
-  <li>xxx</li> 
+	search 
 </ul>
 
--- Header --
--- Others --
-<ul id="menu-about">
-  <li>xxx</li> 
+--- links --- 
+--- menu --- 
+--- collections ---
+-- header --
+-- others --
+<ul id="menu-about" data value="about-collections">
+	about
+	  dana
+	  programs
+	    dabi
+
+	  timeline
+
+      board
+	  staff
+	  contact
+
+	  others
+</ul>
+
+<ul id="menu-baw">
+  <li>baw gallery</li> 
+  <li>baw reports</li> 
 </ul>
 
 <ul id="menu-news">
@@ -66,33 +184,35 @@
   <li>xxx</li> 
 </ul>
 
--- Hero --
+<ul id="menu-community">
+  <li>xxx</li> 
+</ul>
+
+<ul id="menu-resources">
+  <li>xxx</li> 
+</ul>
+
+--- hero --- 
+-- hero --
 <ul id="hero-home">
   <li>xxx</li> 
 </ul>
 
--- Content --
--- Blocks --
--- management --
-<ul id="blocks">
-  <li>header</li> 
-    <li>social media</li>
-    <li>search</li>
-  <li>hero</li> 
-  <li>content</li>
-    <li>article cards</li> 
-  	<li>videos</li>
-  	<li>podcasts</li> 
-  	<li>events</li> 
-  	<li>sign-up-form</li>  
-  <li>footer</li> 
-    <li>about</li>
-    <li>address</li>
-    <li>support</li>
-    <li>social media</li>
-  <li>others</li>
+--- content --- 
+-- content --
+<ul id="content">
+  <li>design systems</li>
+  	<li>columns</li>
+  <li>sections</li>
+  	<li>hero</li>
+  	<li>featured</li>
+  	<li>article cards</li>
+  	<li>newsletter</li>
+  	<li>podcasts</li>
+  	<li>events</li>
 </ul>
 
+--- footer ---
 -- Footer --
 <ul class="footer-about">
   <li><a href="#">About</a></li> 
@@ -117,13 +237,39 @@
   <li><a>Social Media</a></li> 
 </ul>
 
-
-
 --- Links ---
--- audience --
--- audience --
--- audience --
--- audience --
--- audience --
+--- Information Architecture ---
+--- Flows ---
+--- Categories ---
+--- Pages ---
+--- Collections ---
+"determine which are flows, categories, pages and collections"
+-- audiences --
+neuroscience
+education
+educators
+infants
+kids
+teens
+adults
+seniors
+patients
+caregivers
+
+-- resources --
+-- external resources --
+-- local --
+-- resources --
+-- authors --
+-- order form --
+
+--- Tags --- 
+- deep dive
+- emerging tools
+- conversation
+- opinions
+- others
+
+
 
 
