@@ -85,6 +85,10 @@
 	initiatives 
 	audiences
 	resources
+	dana
+	dana alliances
+	  baw 
+	edab
 </ul>
 
 <ul id="menu-education" data value="education-collections">
@@ -157,8 +161,11 @@
 	  timeline
 
       board
+      executive
 	  staff
 	  contact
+
+	financial
 
 	  others
 </ul>
@@ -168,20 +175,42 @@
   <li>baw reports</li> 
 </ul>
 
-<ul id="menu-news">
-  <li>xxx</li> 
+<ul id="menu-news" data value="news-collections">
+ 	news 
+	audiences 
+	resources
+	programs 
+	press release
+	press rooms
+	brain in the news 
+	awards 
+	announcements
+	newsletter
+	neuro education (news)
+	neuro ethics (news)
+	tags 
+	  Xxx  
 </ul>
 
-<ul id="menu-events">
-  <li>xxx</li> 
+<ul id="menu-events" data value="events-collections">
+ 	events 
+	audiences 
+	resources
+	dana 
+	programs
+	baw
 </ul>
 
-<ul id="menu-videos">
-  <li>xxx</li> 
+<ul id="menu-videos" data value="videos-collections">
+ 	videos 
+	audiences 
+	resources
 </ul>
 
-<ul id="menu-podcasts">
-  <li>xxx</li> 
+<ul id="menu-podcasts" data value="podcasts-collections">
+ 	podcasts 
+	audiences 
+	resources
 </ul>
 
 <ul id="menu-community">
@@ -245,8 +274,11 @@
 --- Collections ---
 "determine which are flows, categories, pages and collections"
 -- audiences --
-neuroscience
-education
+audiences *
+resources *
+publications *
+neuroscience *
+education *
 educators
 infants
 kids
@@ -255,6 +287,17 @@ adults
 seniors
 patients
 caregivers
+
+community 
+	public 
+	scientific
+
+external resources 
+resources 
+
+order form 
+order
+
 
 -- resources --
 -- external resources --
@@ -272,4 +315,156 @@ caregivers
 
 
 
+--- references ---
+ audience
+  ages
+   infants
+   kids
+   teens
+   adults
+   seniors
+  students
+  neuroscientists
+  teachers
+  caregivers
+  patients
+  experts
 
+   support
+  experts
+   neuroscientists
+   health
+
+  members
+   expert directory
+   dabi
+   dabi brain awareness week (as partners)
+
+  research
+   grants
+  grants
+
+ communication
+  speaking
+  listening
+  socializing
+  writing
+  views
+  opinions
+ 
+
+   publications
+   publications audience
+   publications programs
+   publications keywords
+   publications local
+   publications local fr
+   publications local Xxx
+   publications others
+    brain terms "table of contents for brain act as wiki"
+    disease and disorders
+
+      questions and answers (communications conversations speaking) programs
+     questions and answers (communications conversations speaking)
+     questions and answers in the lab (communications conversations speaking) programs
+     questions and answers in the lab (communications conversations speaking)
+     interviews (communications conversations speaking) programs
+     interviews (communications conversations speaking)
+      "search for interview tith.."
+     opinions 
+      opinions columnist
+      opinions reviews
+
+         events
+    events audience
+    events programs
+    events audience neuroscientists
+    events audience public
+    events communication conversation talks
+    events communication conversation conferences
+    events communication conversation workshop
+
+
+       education keywords
+   education news
+   education events
+   education communications conversations
+
+      keywords 
+    frequently asked questions
+     about frequently asked questions
+     programs frequently asked questions
+
+    audience kids fun
+    audience kids lab
+
+    communication talk
+    communication questions and answers
+    communication conferences
+    communication lecture
+
+       keywords 
+    frequently asked questions
+     about frequently asked questions
+     programs frequently asked questions
+
+    audience kids fun
+    audience kids lab
+
+    communication talk
+    communication questions and answers
+    communication conferences
+    communication lecture
+
+    science
+
+   keywords new
+   keywords suggested
+   keywords synonyms
+    briefing papers as rsearch findings in at dana (brainwork)
+    primers as basics, introduction, beginner and kids
+    deep dive
+    opinions
+    spotted
+    emerging tools
+    tools
+
+   keywords updating
+    laws
+    policy makers
+
+   keywords (others)
+    progress report
+    progress report impact
+    progress report achievements
+    progress report milestones
+
+    community
+     community connect, share and learn
+    community
+     get involved
+       get involved as write for the dana foundation
+       get involved as join us at events
+
+ privacy
+ feedback
+
+ functionalities
+ featured
+ apps
+
+  others
+   order
+   authors
+   books featured
+   blog
+   wiki
+
+  resources
+   external resources
+ 
+ collections categories, tags, terms and keywords
+  xxx
+
+ keywords collections fields 
+  "see also notes dana strategic plan planning projects site statamic collections fields"
