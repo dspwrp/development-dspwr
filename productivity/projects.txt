@@ -1,0 +1,12 @@
+projects.txt
+
+publications 
+interactions
+games
+mixed reality
+
+featured
+
+department
+
+others
