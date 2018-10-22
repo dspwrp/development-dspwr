@@ -5,6 +5,8 @@
 *p = pages  
 *cc = collections 
 
+"note: menu should be designed as story telling in a flow format"
+
 --- Links --- 
 --- Menu --- 
 --- collections ---
