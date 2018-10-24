@@ -1,2 +1,14 @@
+
 - site config system.yaml "site url configuration"
 - statamic config app.yaml "site url configuration"
+
+- site
+-- links
+Sitemap 
+    pages
+    menu
+    collections
+-- inspirations
+
+- projects
+-- interactive
