@@ -1,0 +1,2 @@
+- site config system.yaml "site url configuration"
+- statamic config app.yaml "site url configuration"
