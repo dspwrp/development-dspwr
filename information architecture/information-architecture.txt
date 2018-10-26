@@ -1,472 +1,225 @@
-# = menu links
 
-*f = flows 
-*c = categories 
-*p = pages  
-*cc = collections 
+Story
+-----
+Dana
 
-"note: menu should be designed as story telling in a flow format"
+Support
+  Neuroscientists
+  Programs
+  Staff
+  Authors
 
---- Links --- 
---- Menu --- 
---- collections ---
--- Header --
-<ul id="menu-home">
-	#home 
-</ul>
+Mission
+Goals
 
-<ul id="menu-neuroscience" data value="neuroscience-collections">
-   	neuroscience 
-	audiences 
-	resources
-	articles *
-	education *
-	news *
-	events *
-	publications *
-	videos *
-	podcasts *
-	reports 
-	audiences 
-	experts "members"
-	grants 
-	QA *
-	ethics
-	neuro education 
-	archive
-	interview *
-	 
-	education 
-	programs 
-	primers 
+Communication
 
-    programs * 
+Message
 
-	cerebrum
-	news
-	brain-in-news
-	progress reports
- 
-	tags 
-	  Xxx
-	others
-</ul>
+Information
+  News
+  Resources
 
-<ul id="menu-the-brain">
-	the-brain 
-	fun-facts
+Benefits
+  Knowledge
+  Health
 
-    create-new-content
-	  the-brain
-	  brain-primer
-	  interactions
-</ul>
+Audience
 
-<ul id="menu-health" data value="health-collections">
-	health 
-	resources 
-	  brain-connections
-	  external-resources
+Audit
+-----
 
-    create-new-content
-	  audiences
-	  resources
-	    health
-	    brain games
-</ul>
+Information Architecture
+------------------------
+ Relationship
+Taxonomy 
+  Relationship
+Classification 
+  Grouping
+Tagging
+Flow
 
-<ul id="menu-brain-health" data value="brain-health-collections"> 
-	brain-health 
-	create-new-content
-	  brain-health
-	  nutrition
-</ul>
+About
+  Dana
+Members
+Programs
+  Grants
+  DABI
+    BAW
+    Others
+  EDAB
+    Others
+Initiatives
+Staff
+Contact
+News
+Newsletters
+Events
+Podcasts
+Videos
+Articles
+Publications
+Authors
+Education
+Resources
+Audience
+  Neuroscience
+  Experts
+  Members
+  Caregivers
+  Educators
+  Teachers
+  Students
+  Infants
+  Kids
+  Teens
+  Adults
+  Seniors
+  Patients 
+  Taxonomy
 
-<ul id="menu-programs-initiatives">
-	programs 
-	initiatives 
-	audiences
-	resources
-	dana
-	dana alliances
-	  baw 
-	edab
-</ul>
+Taxonomy 
+---
+  Timeline
+  Members
+  Gallery
+    BAW Gallery
+  Neuroscience
+  Reports
+  Brain Disorders
+  Brain Terms
+  Order
+  Archive
+  New
+    Ebooks
+    Nutrition
+    Conversations
+    Wiki
+    Date
+    Location
+    Relationship
+    Related
 
-<ul id="menu-education" data value="education-collections">
-	education
-	audiences
-	  educators 
-	resources 
-	  publications 
-	  lessons
-      neuro-education
+Grouping
+---
+dana 
 
-    create-new-content
-	  audiences
-	  resources 
-</ul>
+about
+  timeline
+    programs
+      taxonomy
 
-<ul id="menu-publication" data value="publication-collections">
-    publications 
-	audiences 
-	resources 
-	programs 
-	news 
-	QA
-	cerebrum 
-	brain-disorders
-	brain-connections 
-	books
-	ebooks
-	article 
-	local 
-	brain in the news 
-	tags 
-	  Xxx 
-</ul>
-
-<ul id="menu-grants" data value="publication-collections">
- 	grants
-	audiences 
-	resources  
-	QA
-</ul>
-
-<ul id="menu-blog">
-	blog 
-</ul>
-
-<ul id="menu-more" data value="more-collections">
-	more
-</ul>
-
-<ul id="menu-social-media">
-	social media 
-</ul>
-
-<ul id="menu-search">
-	search 
-</ul>
-
---- links --- 
---- menu --- 
---- collections ---
--- header --
--- others --
-<ul id="menu-about" data value="about-collections">
-	about
-	  dana
-	  programs
-	    dabi
-
-	  timeline
-
-      board
-      executive
-	  staff
-	  contact
-
-	financial
-
-	  others
-</ul>
-
-<ul id="menu-baw">
-  <li>baw gallery</li> 
-  <li>baw reports</li> 
-</ul>
-
-<ul id="menu-news" data value="news-collections">
- 	news 
-	audiences 
-	resources
-	programs 
-	press release
-	press rooms
-	brain in the news 
-	awards 
-	announcements
-	newsletter
-	neuro education (news)
-	neuro ethics (news)
-	tags 
-	  Xxx  
-</ul>
-
-<ul id="menu-events" data value="events-collections">
- 	events 
-	audiences 
-	resources
-	dana 
-	programs
-	baw
-</ul>
-
-<ul id="menu-videos" data value="videos-collections">
- 	videos 
-	audiences 
-	resources
-</ul>
-
-<ul id="menu-podcasts" data value="podcasts-collections">
- 	podcasts 
-	audiences 
-	resources
-</ul>
-
-<ul id="menu-community">
-  <li>xxx</li> 
-</ul>
-
-<ul id="menu-resources">
-  <li>xxx</li> 
-</ul>
-
---- hero --- 
--- hero --
-<ul id="hero-home">
-  <li>xxx</li> 
-</ul>
-
---- content --- 
--- content --
-<ul id="content">
-  <li>design systems</li>
-  	<li>columns</li>
-  <li>sections</li>
-  	<li>hero</li>
-  	<li>featured</li>
-  	<li>article cards</li>
-  	<li>newsletter</li>
-  	<li>podcasts</li>
-  	<li>events</li>
-</ul>
-
---- footer ---
--- Footer --
-<ul class="footer-about">
-  <li><a href="#">About</a></li> 
-</ul>
-
-<ul id="footer-address">
-<span><a class="street-address">Address</a></span> <br />
-  <li><a class="city-state-zip">City, State Zipcode</a></li> 
-  <li><a class="phone">Phone: 000-000-0000</a></li> 
-  <li><a class="fax">Fax: 000-000-0000</a></li> 
-</ul>
-
-<ul class="footer-support">
-  <li><a>Feedback</a></li> 
-</ul>
-
-<ul class="footer-legal">
-  <li><a>Privacy Policy</a></li> 
-</ul>
-
-<ul class="footer-social-media">
-  <li><a>Social Media</a></li> 
-</ul>
-
---- Links ---
---- Information Architecture ---
---- Flows ---
---- Categories ---
---- Pages ---
---- Collections ---
-"determine which are flows, categories, pages and collections"
--- audiences --
-audiences *
-resources *
-publications *
-neuroscience *
-education *
-educators
-infants
-kids
-teens
-adults
-seniors
-patients
-caregivers
-
-community 
-	public 
-	scientific
-
-external resources 
-resources 
-
-order form 
-order
-
-
--- resources --
--- external resources --
--- local --
--- resources --
--- authors --
--- order form --
-
---- Tags --- 
-- deep dive
-- emerging tools
-- conversation
-- opinions
-- others
-
-
-
---- references ---
- audience
-  ages
-   infants
-   kids
-   teens
-   adults
-   seniors
-  students
-  neuroscientists
-  teachers
-  caregivers
-  patients
+members
   experts
+  programs
+    baw members
+    dana members
+      taxonomy
 
-   support
-  experts
-   neuroscientists
-   health
-
-  members
-   expert directory
-   dabi
-   dabi brain awareness week (as partners)
-
-  research
-   grants
+programs
+  news
+  events
   grants
+  dabi
+    baw
+  edab
+    articles
+    education
+    resources
+    audience
+    taxonomy
+  staff
+  contact
 
- communication
-  speaking
-  listening
-  socializing
-  writing
-  views
-  opinions
- 
+news
+  press releases
+  announcements
+  awards
+    programs
+  articles
+  publications
+  taxonomy
 
-   publications
-   publications audience
-   publications programs
-   publications keywords
-   publications local
-   publications local fr
-   publications local Xxx
-   publications others
-    brain terms "table of contents for brain act as wiki"
-    disease and disorders
-
-      questions and answers (communications conversations speaking) programs
-     questions and answers (communications conversations speaking)
-     questions and answers in the lab (communications conversations speaking) programs
-     questions and answers in the lab (communications conversations speaking)
-     interviews (communications conversations speaking) programs
-     interviews (communications conversations speaking)
-      "search for interview tith.."
-     opinions 
-      opinions columnist
-      opinions reviews
-
-         events
-    events audience
-    events programs
-    events audience neuroscientists
-    events audience public
-    events communication conversation talks
-    events communication conversation conferences
-    events communication conversation workshop
-
-
-       education keywords
-   education news
-   education events
-   education communications conversations
-
-      keywords 
-    frequently asked questions
-     about frequently asked questions
-     programs frequently asked questions
-
-    audience kids fun
-    audience kids lab
-
-    communication talk
-    communication questions and answers
-    communication conferences
-    communication lecture
-
-       keywords 
-    frequently asked questions
-     about frequently asked questions
-     programs frequently asked questions
-
-    audience kids fun
-    audience kids lab
-
-    communication talk
-    communication questions and answers
-    communication conferences
-    communication lecture
-
-    science
-
-   keywords new
-   keywords suggested
-   keywords synonyms
-    briefing papers as rsearch findings in at dana (brainwork)
-    primers as basics, introduction, beginner and kids
-    deep dive
-    opinions
-    spotted
-    emerging tools
-    tools
-
-   keywords updating
-    laws
-    policy makers
-
-   keywords (others)
-    progress report
-    progress report impact
-    progress report achievements
-    progress report milestones
-
-    community
-     community connect, share and learn
-    community
-     get involved
-       get involved as write for the dana foundation
-       get involved as join us at events
-
- privacy
- feedback
-
- functionalities
- featured
- apps
-
-  others
-   order
-   authors
-   books featured
-   blog
-   wiki
-
+events
+videos
+podcasts 
+  programs
+  education
   resources
-   external resources
- 
- collections categories, tags, terms and keywords
-  xxx
+  audience
+  taxonomy
 
- keywords collections fields 
-  "see also notes dana strategic plan planning projects site statamic collections fields"
+articles
+  programs
+  neuroscience
+    cerebrum
+    brain in the news
+  education
+  publications
+  language
+  resources
+  audience
+  taxonomy
+
+qa
+interviews
+  news
+  articles
+  education
+  publications
+  resources
+  audience
+  taxonomy
+
+reports
+  dana
+  programs
+  education
+  resources
+  audience
+  taxonomy
+
+publications
+  books
+    subrights
+  programs
+  articles
+  language
+  education
+  resources
+  audience
+  taxonomy
+  
+  updated
+
+  ebooks
+    publications
+
+brain disorders
+brain terms
+  programs
+  education
+  resources
+  audience
+  taxonomy
+
+order
+  programs
+    dabi
+    edab
+
+gallery
+  baw gallery
+
+education
+  programs
+  resources
+  audience
+  taxonomy
+
+resources
+audience
+
+archive
+  all
+
