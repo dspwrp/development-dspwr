@@ -34,31 +34,3 @@ Benefits
 Audience
 
 
-Information Architecture
------------------------- 
-Classification 
-  Categories
-"grouping"
-
-Collections
-  Fields
-  Tags
-
-Sitemap
- user needs
-Links
-Pages
-
-Navigation
-Menu
-
-Themes
-Templates
-
-Terms
-Tags
-Taxonomy
-"relationship"
-
-
-  

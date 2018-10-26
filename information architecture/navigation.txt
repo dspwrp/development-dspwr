@@ -1,39 +1,17 @@
+Information Architecture
+ Collections
+  Sitemap
+   user and business needs
+  Map
+   Navigation
+   Header
+   Footer
+   Universe
+   	Links
 
-Story
------
-Dana
-
-Support
-  Neuroscientists
-  Programs
-  Staff
-  Authors
-
-Mission
-Goals
-
-Communication
-
-Message
-
-Information
-  News
-  Resources
-
-Benefits
-  Knowledge
-  Health
-
-Audience
-
-Audit
------
-
-Navigation
-----------
- Main Navigation
- Service Navigation
- Footer Navigation
-Menu
--- 
-
+    Menu
+    
+    Themes
+    Templates
+    Pages
+------------------------ 

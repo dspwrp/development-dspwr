@@ -1,0 +1,71 @@
+Information Architecture
+Terms
+------------------------ 
+sitemap
+level i
+level ii
+level ii
+- all
+- dana
+- program
+- members
+- community
+- article
+- education
+- resources
+- audiences
+- neuroscience
+- public
+- internal
+- external
+- new
+
+- news
+- events
+- topics
+- keywords_
+- tags_
+- new_
+
+- kids
+- scouts
+- others
+
+- scouts
+- puzzles
+- facts
+
+- all
+- education
+- resources
+- audiences
+
+- all
+- articles
+- news
+
+- all
+- internal
+- external
+
+- all
+- community
+
+- all
+- articles
+
+- all
+- news
+- events
+
+- all
+- topics
+
+- all
+- archive
+
+- language
+
+cerebrum *
+podcast *
+event *
