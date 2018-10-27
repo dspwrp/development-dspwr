@@ -18,6 +18,10 @@ about
       timeline
       staff
       contact
+      board
+      executive
+    privacy
+    feedback
 
 programs
   grants
@@ -30,6 +34,7 @@ initiatives
 members
 experts
   dana
+    expert directory
   programs
     dabi
     edab
@@ -73,7 +78,27 @@ articles
     interviews
     cerebrum
     brain in the news
-
+ primers
+     cerebrum
+     brain in the news
+     neuro education
+     neuro ethics
+     briefing papers
+     report on progress
+     progress report
+     questions and answers (communications conversations speaking) programs
+     questions and answers (communications conversations speaking)
+     questions and answers in the lab (communications conversations speaking) programs
+     questions and answers in the lab (communications conversations speaking)
+     interviews (communications conversations speaking) programs
+     interviews (communications conversations speaking)
+      "search for interview tith.."
+     opinions 
+      opinions columnist
+      opinions reviews
+    brain health
+    the brain
+    
 publications
   dana
   programs
@@ -113,3 +138,4 @@ archive
 resources
 
 audience
+

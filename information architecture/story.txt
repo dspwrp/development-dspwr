@@ -22,6 +22,10 @@ Communication
   Mediums
   Platforms
 Message
+  speaking
+  listening
+  socializing
+  writing
 
 Information
   News
@@ -32,5 +36,3 @@ Benefits
   Health
 
 Audience
-
-
