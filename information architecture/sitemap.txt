@@ -1,38 +1,141 @@
 
-Story
------
-Dana
+Information Architecture
+ Collections
+  Sitemap
+   user and business needs
+  Map
+------------------------
+dana
 
-Support
-  Neuroscientists
-  Programs
-  Staff
-  Authors
+about
+  dana
+  programs
+    grants
+    dabi
+      baw 
+    edab
+  initiatives
+      timeline
+      staff
+      contact
+      board
+      executive
+    privacy
+    feedback
 
-Mission
-Goals
+programs
+  grants
+  dabi
+    baw
+  edab
 
-Communication
+initiatives
 
-Message
+members
+experts
+  dana
+    expert directory
+  programs
+    dabi
+    edab
 
-Information
-  News
-  Resources
+community
 
-Benefits
-  Knowledge
-  Health
+news
+  dana
+  programs
+  members
+  community
+  internal
+  external
+    press releases
+    announcements
+    awards
 
-Audience
+events
+  dana
+  programs
+  members
+  community
+  internal
+  external
 
-Audit
------
+videos
+podcasts 
+  dana
+  programs
 
-Sitemap
--------
- User Needs
-Links
---
-Pages
---
+articles
+  dana
+  programs
+  members
+  community
+  news
+  publications
+  internal
+  external
+    qa
+    interviews
+    cerebrum
+    brain in the news
+ primers
+     cerebrum
+     brain in the news
+     neuro education
+     neuro ethics
+     briefing papers
+     report on progress
+     progress report
+     questions and answers (communications conversations speaking) programs
+     questions and answers (communications conversations speaking)
+     questions and answers in the lab (communications conversations speaking) programs
+     questions and answers in the lab (communications conversations speaking)
+     interviews (communications conversations speaking) programs
+     interviews (communications conversations speaking)
+      "search for interview tith.."
+     opinions 
+      opinions columnist
+      opinions reviews
+    brain health
+    the brain
+    
+publications
+  dana
+  programs
+  members
+  community
+    books
+      subrights
+  language
+  ebooks
+  order
+    programs
+      dabi
+      edab
+brain disorders
+brain terms
+  dana
+  programs
+  members
+  community
+
+reports
+  dana
+  programs
+    financial
+    baw
+    neuroscience
+
+gallery
+  dana
+  programs
+    baw
+
+education
+
+archive
+
+resources
+
+audience
+
