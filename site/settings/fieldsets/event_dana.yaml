@@ -24,6 +24,12 @@ sections:
       list_description:
         type: text
         display: list_description
+      tagging:
+        type: tags
+        display: Tagging
+      taxonomize:
+        type: taxonomy
+        display: Taxonomize
 taxonomies: false
 title: Event
-create_title: 'New Event' 
+create_title: 'New Event'
