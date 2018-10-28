@@ -1,35 +1,28 @@
-- fields for searching planning
-- extraction phase one of fields body 
-- extraction phase two  of fields body section
-- how to find patterns so i can note to query with coding js
-- similar fields across all collections
-- how can i merge or extract section from body for better user experience
-- body extraction to turn into terms
-- audit dana of list body details body analysis for section to turn to terms, coding styling in bulk, searching and filtering and user experience**
+Collections
+Fields
+-----------
+  - selection of fields for searching
+  - extraction of content to create sections for better user experience
+ 
+  - how to find patterns so i can note to query with coding js
+  - similar fields across all collections
+  - how can i merge or extract section from body for better user experience
+  - body extraction to turn into terms
+  - audit dana of list body details body analysis for section to turn to terms, coding styling in bulk, searching and filtering and user experience**
 
-###
 
+Fields
+Common
+------
 
-fields
- statamic
-  tags *
-  related *
-
- audience *
-  - baw event type
-  - baw event audience
- programs *
-
- categories *
- keywords *
-
- content
-  page_title (as title) *
-  page_url (as url) *
-  page_content
+Fields
+------
+  page_title 
+  page_url 
+  page_bcontent
 
   list 
-   list_title *
+   list_title 
    list_title_url_internal
    list_title_url_external_blog
    list_title_url_external	

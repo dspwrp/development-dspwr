@@ -23,6 +23,8 @@ about
 
 programs
   grants
+    current
+    previous
   dabi
     baw
   edab
@@ -97,7 +99,7 @@ publications
       programs
         dabi
         edab
-        
+
 brain disorders
 brain terms
   dana
@@ -117,6 +119,7 @@ gallery
     baw
 
 education
+  intittaitives
   educators
   teachers
     lesson plans
@@ -135,6 +138,8 @@ uncategorized
   puzzles
      
 audience
+  public
+  private
   experts
   neuroscientists
   infants

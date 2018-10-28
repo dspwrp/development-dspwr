@@ -1,4 +1,8 @@
-projects.txt
+
+ functionalities
+ featured
+
+ projects.txt
 
 publications 
 interactions
@@ -12,3 +16,49 @@ department
 others
 
 site cerebrum print
+
+
+
+projects.txt
+features
+exhibit
+department
+- baw
+- grants
+-- graph
+- taxonomy
+- information architechture
+- members
+- wiki
+-- integratikons
+- wiki
+-- brain health
+- publications
+- games
+- baw
+-- events
+-- map
+- mobile
+-- mobile app
+- mixed reality baw
+- ideas
+- timeline
+- publications
+-- terms
+-- disorders
+- ux
+- ux interactions
+- artificial intelligence
+- cerebrum
+- brain in the news
+- grants
+-- graph money giving away
+- ideas
+-- b.j (dabi search videos)
+-- b.j (dabi marketing)
+- order
+- content writing
+-- tags
+others
+- publications subrights
+

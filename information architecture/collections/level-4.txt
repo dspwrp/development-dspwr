@@ -7,21 +7,19 @@ communications
 speaking
 	conversations
     opinions 
+    	views
     	columnist
 		reviews
 	questions and answers 
 	interviews "...search for interview"
+	lectures
 	talks
 	workshops
 	conferences
 
 deep dive
 
-community 
-	"...connect, share and learn"
-	get involved
-	 "write for the dana foundation"
-	 "join us at a meetup"
+community  "...connect, share and learn" get involved "write for the dana foundation" "join us at a meetup"
 
 the brain
 
@@ -33,18 +31,23 @@ progress report
 	milestones
 
 laws
+
 policy makers
-    
+
+wiki
+
 spotted
 
 emerging tools
 
-wiki
-
 synonyms
--------- 
- briefing papers as research findings 
- primers as basics 
+    opinions 
+    	views
+    	columnist
+		reviews
+	deep dive
+ 	briefing papers as research findings 
+ 	primers as basics 
  
 
 

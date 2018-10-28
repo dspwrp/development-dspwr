@@ -62,7 +62,7 @@ Templates
 
 Terms
 Tags
-Taxonomy
+Taxonomy 
 "relationship"
 
 
