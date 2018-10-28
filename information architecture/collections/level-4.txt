@@ -1,4 +1,50 @@
 Information Architecture
  Collections
  Level IV
-------------------------
+  New Categories, New Terms and Synonyms
+----------------------------------------
+communications
+speaking
+	conversations
+    opinions 
+    	columnist
+		reviews
+	questions and answers 
+	interviews "...search for interview"
+	talks
+	workshops
+	conferences
+
+deep dive
+
+community 
+	"...connect, share and learn"
+	get involved
+	 "write for the dana foundation"
+	 "join us at a meetup"
+
+the brain
+
+brain health
+
+progress report
+	impact
+	achievements
+	milestones
+
+laws
+policy makers
+    
+spotted
+
+emerging tools
+
+wiki
+
+synonyms
+-------- 
+ briefing papers as research findings 
+ primers as basics 
+ 
+
+

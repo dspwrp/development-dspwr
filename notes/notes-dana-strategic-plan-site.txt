@@ -1,3 +1,15 @@
+Collections
+-----------
+   -- interviews
+       --- dana search the news archive title for "interview with..."
+
+Fields
+------
+
+Audit
+-----
+
+
 - design site like telling a story
 
 - site config system.yaml "site url configuration"
