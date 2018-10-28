@@ -42,6 +42,8 @@ experts
 
 neuroscience
 
+authors
+
 community
 
 news
@@ -88,6 +90,7 @@ articles
     neuro ethics
     briefing papers 
     progress report
+      authors
 
 publications
   dana
@@ -97,8 +100,8 @@ publications
     books
       subrights
     ebooks
-      puzzles
       fact sheets
+      puzzles
       language 
         french 
         spanish 
@@ -146,11 +149,6 @@ blog
 archive
 
 resources
-
-uncategorized
-  primers
-  fact sheets
-  puzzles
      
 audience
   public
