@@ -1,152 +1,55 @@
-
 Information Architecture
  Collections
  Level III
-------------------------
-dana
+  New Categories, New Terms and Synonyms
+----------------------------------------
+Communications
+Speaking
+	Conversations
+    Opinions 
+    	Views
+    	Columnist
+		Reviews
+	Questions and Answers 
+	iInterviews 
+		"...search for interview"
+	Lectures
+	Talks
+	Workshops
+	Conferences
 
-about
-  dana
-  programs
-    grants
-    dabi
-      baw 
-    edab
-  initiatives
-      timeline
-      staff
-      contact
-      board
-      executive
-    privacy
-    feedback
+Deep Dive
 
-programs
-  grants
-    current
-    previous
-  dabi
-    baw
-  edab
+Community  
+	"...connect, share and learn" get involved "write for the dana foundation" "join us at a meetup"
 
-initiatives
+The Brain
 
-members
-experts
-  dana
-    expert directory
-  programs
-    dabi
-    edab
+Brain Health
 
-community
+Progress Report
+	Impact
+	Achievements
+	Milestones
 
-news
-  dana
-  programs
-  members
-  community
-  internal
-  external
-    press room
-    press releases
-    announcements
-    awards
+Laws
 
-events
-  dana
-  programs
-  members
-  community
-  internal
-  external
+Policy Makers
 
-videos
-podcasts 
-  dana
-  programs
+Wiki
 
-articles
-  dana
-  programs
-  members
-  community
-  news
-  publications
-  internal
-  external
-    questions and answers
-      in the lab
-    interviews
-    cerebrum
-    brain in the news
-    primers
-    neuro education
-    neuro ethics
-    briefing papers 
-    progress report
+Spotted
 
-publications
-  dana
-  programs
-  members
-  community
-    books
-      subrights
-    ebooks
-      language
-    order
-      programs
-        dabi
-        edab
+Emerging Tools
 
-brain disorders
-brain terms
-  dana
-  programs
-  members
-  community
+Synonyms
+    Opinions 
+    	Views
+    	Columnist
+		Reviews
+	Deep Dive
+ 	Briefing Papers as Research Findings 
+ 	Primers as Basics 
+ 
 
-reports
-  dana
-  programs
-    financial
-    baw
 
-gallery
-  dana
-  programs
-    baw
-
-education
-  intittaitives
-  educators
-  teachers
-    lesson plans
-  students
-    grades 6-8
-
-blog
-
-archive
-
-resources
-
-uncategorized
-  primers
-  fact sheets
-  puzzles
-     
-audience
-  public
-  private
-  experts
-  neuroscientists
-  infants
-  kids
-  adults
-  seniors
-  educators
-  caregivers
-  students
-  patients

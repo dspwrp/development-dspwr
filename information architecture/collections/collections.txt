@@ -1,0 +1,62 @@
+Audit
+Site
+Collections
+ Html
+ Code
+-----------
+	extraction
+		sections
+		elements
+	taxomy
+	terms
+	tagging
+
+	css styling
+	
+Xxx collections
+---------------
+neuroscience cerebrum
+ - create database manually for 1-3 years
+ - extract details from list_title_url then later matched in excel
+ - extract details header from list_title_url then later matched in excel
+ - extract details body from list_title_url then later matched in excel
+ - extract fields from details header or body
+ - 2012 no authors
+
+baw events
+ - event date, separate event date to extract start and end date for new columns
+ - address, see how many of them to clean and extract long and lat for new column
+ - event type, turn event type into sub event type fields to query
+ - event audience, turn audience into sub event audience fields to query
+
+neuroscience news archive
+ - extract title then extract details
+
+baw partners
+- extract partner individually
+- extract partner name
+- extract partner location
+- extract partner website url
+   -- patterns two br then next line quotes
+   -- patterns partners can have sub partners
+- create partner type column
+
+neuroscience neuroeducation
+
+neuroscience neuroethics
+
+neuroscience qa dana
+ - extract title
+ - extract url to navigate
+ - extract partner name
+
+neuroscience qa grants
+
+baw gallery
+ - extract date from text file for new column
+ - continuing with scraping other dates
+
+authors 
+ - add dana.org url and extract the followings
+    -- get author name #ctl00_ContentPlaceHolder1_lblAuthor
+    -- get content body .white_home

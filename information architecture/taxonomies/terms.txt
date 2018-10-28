@@ -1,30 +1,41 @@
 Information Architecture
 Taxonomy
-Terms
+  Terms
 ------------------------ 
-terms_
+news_dabi
+news_edab
+news_dana
+
+news_newsletters_dana
+news_newsletters_dabi
+news_newsletters_edab
+
+events_dana
+events_dabi
+events_baw
+events_edab
+
+podcasts_dana
+podcasts_dabi
+podcasts_edab
+podcasts_terms
+videos_dana
+videos_dabi
+videos_edab
+
+publications_dabi
+publications_dabi_baw
+publications_dabi_baw_adults
+publications_dabi_baw_Xxx
+publications_scouts
+publications_edab
+
+categories
+----------
+
+terms
+-----
 
 
 
-scouts
 
-publications
-  puzzles
-  fact sheets
-  language 
-    french 
-    spanish 
-    german 
-    italian 
-    portuguese
-    turkish 
-
-featured
-
-discontinued
-
-kids
-  fun
-  lab
-adults
- 

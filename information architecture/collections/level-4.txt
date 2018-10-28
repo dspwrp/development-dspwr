@@ -1,53 +1,172 @@
+
 Information Architecture
  Collections
  Level IV
-  New Categories, New Terms and Synonyms
-----------------------------------------
-communications
-speaking
-	conversations
-    opinions 
-    	views
-    	columnist
-		reviews
-	questions and answers 
-	interviews "...search for interview"
-	lectures
-	talks
-	workshops
-	conferences
+------------------------
+dana
 
-deep dive
+about
+  dana
+  programs
+    grants
+    dabi
+      baw 
+    edab
+  initiatives
+      timeline
+      staff
+      contact
+      board
+      executive
+    privacy
+    feedback
 
-community  "...connect, share and learn" get involved "write for the dana foundation" "join us at a meetup"
+programs
+  grants
+    current
+    previous
+  dabi
+    baw
+    scouts
+  edab
 
-the brain
+initiatives
 
-brain health
+members
+experts
+  dana
+    expert directory
+  programs
+    dabi
+    edab
 
-progress report
-	impact
-	achievements
-	milestones
+community
 
-laws
+news
+  dana
+  programs
+  members
+  community
+  internal
+  external
+    press room
+    press releases
+    announcements
+    awards
 
-policy makers
+events
+  dana
+  programs
+  members
+  community
+  internal
+  external
 
-wiki
+videos
+podcasts 
+  dana
+  programs
 
-spotted
+articles
+  dana
+  programs
+  members
+  community
+  news
+  publications
+  internal
+  external
+    questions and answers
+      in the lab
+    interviews
+    cerebrum
+    brain in the news
+    primers
+    neuro education
+    neuro ethics
+    briefing papers 
+    progress report
 
-emerging tools
+publications
+  dana
+  programs
+  members
+  community
+    books
+      subrights
+    ebooks
+      puzzles
+      fact sheets
+      language 
+        french 
+        spanish 
+        german 
+        italian 
+        portuguese
+        turkish 
+    order
+      programs
+        dabi
+        edab
 
-synonyms
-    opinions 
-    	views
-    	columnist
-		reviews
-	deep dive
- 	briefing papers as research findings 
- 	primers as basics 
+brain disorders
+brain terms
+  dana
+  programs
+  members
+  community
+
+reports
+  dana
+  programs
+    financial
+    baw
+
+gallery
+  dana
+  programs
+    baw
+
+featured
+
+discontinued
+
+education
+  intittaitives
+  educators
+  teachers
+    lesson plans
+  students
+    grades 6-8
+
+blog
+
+archive
+
+resources
+
+uncategorized
+  primers
+  fact sheets
+  puzzles
+     
+audience
+  public
+  private
+  experts
+  neuroscientists
+  infants
+  kids
+    fun
+    lab
+  adults
+  seniors
+  educators
+  caregivers
+  students
+  patients
+
+
+
+
  
-
-
