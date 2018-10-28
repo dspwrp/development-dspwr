@@ -70,6 +70,7 @@ videos
 podcasts 
   dana
   programs
+  capitol hill briefings
 
 articles
   dana
@@ -80,17 +81,16 @@ articles
   publications
   internal
   external
+    briefing papers 
+    progress report
+    cerebrum
+    brain in the news
     questions and answers
       in the lab
     interviews
-    cerebrum
-    brain in the news
     primers
     neuro education
     neuro ethics
-    briefing papers 
-    progress report
-      authors
 
 publications
   dana
@@ -167,6 +167,7 @@ audience
   students
   patients
 
+taxonomy
 
 
 

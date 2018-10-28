@@ -14,7 +14,44 @@ Collections
 
 	css styling
 
-Xxx collections
+Audit
+Site
+Dana.org
+Collections
+Analysis
+Finding 
+	Terms
+		Searching
+	Sections
+Extracting
+	Terms
+ 		Page
+ 		Html
+ 		Code
+-----------
+	collections
+	fields
+
+    sections
+    elements
+
+	classification
+	taxonomy
+
+  	designing
+  		css
+
+Notes
+-----
+	selection of fields for searching
+	extraction of content to create sections for better user experience and taxonomy
+		audit analysis of collections' patterns in html code
+		creating sections, taxonomy for searching, filtering, querying and user experience
+		css styling
+
+		
+collections
+Xxx 
 ---------------
 neuroscience cerebrum
  - create database manually for 1-3 years

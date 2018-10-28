@@ -7,6 +7,7 @@ timeline_prog_dabi
 timeline_prog_edab
 
 news_prog_dana
+  news_prog_dana_press_releases
 news_prog_dabi
 news_prog_edab
 
@@ -22,19 +23,39 @@ news_newsletters_prog_dana
 news_newsletters_prog_dabi
 news_newsletters_prog_edab
 
+news_neuroscience_neuro_education
+news_neuroscience_neuro_ethics
+
 events_prog_dana
 events_prog_dabi
-events_prog_baw
+events_prog_dabi_baw
 events_prog_edab
 
 prog_dana
+prog_grants
+  prog_grants_neuroimaging 
+    prog_grants_neuroimaging_current
+    prog_grants_neuroimaging_previous
+  prog_grants_neuroscience
+    prog_grants_neuroscience_current 
+    prog_grants_neuroscience_previous
+  prog_grants_educational 
+  prog_grants_discontinued
+    prog_grants_capitol_hill_briefings
+    prog_grants_human_immunology
+    prog_grants_neuro_immunology 
+    prog_grants_dana_arts_cognition_consortium
+    prog_grants_arts_education_three_city_initiative  
+    prog_grants_arts_education_rural_initiative
+  prog_grants_search
 prog_dabi
+  prog_dabi_baw
+    prog_dabi_baw_events
+    prog_dabi_baw_reports
+    prog_dabi_baw_gallery
+    prog_dabi_baw_resources
+  prog_dabi_scouts
 prog_edab
-prog_dabi_baw_events
-prog_dabi_baw_reports
-prog_dabi_baw_gallery
-prog_dabi_baw_resources
-prog_dabi_scouts
 
 podcasts_prog_dana
 podcasts_prog_dabi
@@ -44,6 +65,14 @@ videos_prog_dana
 videos_prog_dabi
 videos_prog_edab
 
+aritcl_neuroscience
+    aritcl_neuroscience_briefing_papers 
+    aritcl_neuroscience_progress_report
+    aritcl_neuroscience_cerebrum
+    aritcl_neuroscience_brain_in_the_news
+    aritcl_neuroscience_primers
+    aritcl_neuroscience_neuro_education
+    aritcl_neuroscience_neuro_ethics
 aritcl_neuroscience_news_prog_dana
 aritcl_neuroscience_news_prog_dana
 aritcl_neuroscience_news_prog_dabi
@@ -53,6 +82,7 @@ aritcl_neuroscience_qa_prog_dabi
 aritcl_neuroscience_qa_prog_grants
 aritcl_neuroscience_int_prog_dana
 aritcl_neuroscience_int_prog_dabi
+aritcl_neuroscience_int_prog_dabi_baw
 aritcl_neuroscience_int_prog_grants
 aritcl_neuroscience_archive
 
@@ -63,72 +93,76 @@ pub_prog_dabi_baw_adults
 pub_prog_dabi_order
 pub_language_prog_edab
 pub_prog_edab
+pub_books
+  pub_books_members
+    pub_books_members_dana
+    pub_books_members_dabi
+    pub_books_members_edab
+    pub_books_members_grants
+  pub_books_prog_dana
+  pub_books_prog_dabi
+  pub_books_prog_edab
+pub_order
 
 brain_disorders  
 brain_terms 
 
-taxonomy
+education
+  news_neuroscience_neuro_education
+
+Taxonomy
 --------
-  categories
+  Categories
+  ----------
+  Terms
   ----------
     cat_authors
-    cat_news  
-    cat_events  
-    cat_grants
-    cat_podcasts  
-    cat_cerebrum  
+    cat_news 
+    cat_events 
+    cat_prog_grants 
+
+    cat_podcasts
+      terms_podcasts
+
+    cat_articles 
+    cat_cerebrum 
+      terms_cerebrum 
+
     cat_bitn
+
     cat_publications
-      cat_pub
-    cat_featured
-    cat_education
-    cat_resources
-      cat_rsrc
-    cat_internal
-    cat_external
-    cat_audiences
-      aud_members
-      aud_experts
-      aud_neuroscience
-      aud_educators
-        aud_teachers
-      aud_students
-      aud_infants
-      aud_kids
-      aud_teens
-      aud_adults
-      aud_seniors
-      aud_patients 
-      aud_caregivers
-
-  terms
-  -----
-    terms_authors
-    terms_news
-    terms_events
-    terms_articles
-      terms_aritcl
-    terms_publications
       terms_pub
-        pub_fact_sheets
-        pub_puzzles
-    terms_featured
-    terms_education
-    terms_resources
-      terms_rsrc
-        rsrc_prog_dana
-        rsrc_prog_dabi
-        rsrc_prog_dabi_baw
-        rsrc_prog_edab
-    terms_internal
-      terms_int
-    terms_external
-      terms_ext
-    terms_audiences
-      terms_aud
+        terms_pub_fact_sheets
+        terms_pub_puzzles
 
+    cat_featured
 
+    cat_education 
 
+    cat_resources
+      terms_rsrc 
+        terms_rsrc_prog_dana
+        terms_rsrc_prog_dabi
+        terms_rsrc_prog_dabi_baw
+        terms_rsrc_prog_edab
+
+    cat_internal 
+    cat_external 
+
+    cat_audiences
+      terms_aud_members
+      terms_aud_experts
+      terms_aud_neuroscience
+      terms_aud_educators
+        terms_aud_teachers
+      terms_aud_students
+      terms_aud_infants
+      terms_aud_kids
+      terms_aud_teens
+      terms_aud_adults
+      terms_aud_seniors
+      terms_aud_patients 
+      terms_aud_caregivers
 
 
 

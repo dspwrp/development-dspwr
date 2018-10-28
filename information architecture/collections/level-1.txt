@@ -38,3 +38,4 @@ Audiences
   Caregivers
 Search
 
+Taxonomy
