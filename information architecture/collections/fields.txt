@@ -73,7 +73,23 @@ Fields
       related
 
 Fields
-Grants
+ Cerebrum
+---------
+
+Fields
+ Publications
+---------
+
+Fields
+ Events
+---------
+
+Fields
+ Reports
+---------
+
+Fields
+ Grants
 -------
   grants
     title

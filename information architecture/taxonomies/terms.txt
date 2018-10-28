@@ -2,39 +2,106 @@ Information Architecture
 Taxonomy
   Terms
 ------------------------ 
-news_dabi
-news_edab
-news_dana
+timeline_prog_dana
+timeline_prog_dabi
+timeline_prog_edab
 
-news_newsletters_dana
-news_newsletters_dabi
-news_newsletters_edab
+news_prog_dana
+news_prog_dabi
+news_prog_edab
 
-events_dana
-events_dabi
-events_baw
-events_edab
+news_awards_prog_dana
+news_awards_prog_dabi
+news_awards_prog_edab
 
-podcasts_dana
-podcasts_dabi
-podcasts_edab
-podcasts_terms
-videos_dana
-videos_dabi
-videos_edab
+news_announcements_prog_dana
+news_announcements_prog_dabi
+news_announcements_prog_edab
 
-publications_dabi
-publications_dabi_baw
-publications_dabi_baw_adults
-publications_dabi_baw_Xxx
-publications_scouts
-publications_edab
+news_newsletters_prog_dana
+news_newsletters_prog_dabi
+news_newsletters_prog_edab
+
+events_prog_dana
+events_prog_dabi
+events_prog_baw
+events_prog_edab
+
+podcasts_prog_dana
+podcasts_prog_dabi
+podcasts_prog_edab
+podcasts_terms_
+videos_prog_dana
+videos_prog_dabi
+videos_prog_edab
+
+articles_neuroscience_news_prog_dana
+articles_neuroscience_news_prog_dabi
+articles_neuroscience_news_prog_edab
+articles_neuroscience_qa_prog_dana
+articles_neuroscience_qa_prog_dabi
+articles_neuroscience_qa_prog_grants
+articles_neuroscience_int_prog_dana
+articles_neuroscience_int_prog_dabi
+articles_neuroscience_int_prog_grants
+articles_neuroscience_archive
+
+pub_prog_dabi
+pub_prog_dabi_members
+pub_prog_dabi_baw
+pub_prog_dabi_scouts
+pub_prog_dabi_baw_events
+pub_prog_dabi_baw_reports
+pub_prog_dabi_baw_adults
+pub_prog_dabi_baw_gallery
+pub_prog_dabi_baw_resources
+pub_prog_dabi_order
+pub_language_prog_edab
+pub_prog_edab
+
+brain_disorders  
+brain_terms 
 
 terms
 -----
+terms_news
+terms_events
+terms_articles
+terms_pub
+  pub_fact_sheets
+  pub_puzzles
+terms_education
+terms_resources
+  res_prog_dabi_baw
+terms_internal
+terms_external
+terms_audiences
 
 categories
 ----------
+cat_news  
+cat_events  
+cat_grants
+cat_podcasts  
+cat_cerebrum  
+cat_bitn
+cat_pub 
+cat_internal
+cat_external
+cat_audiences
+  members
+  experts
+  neuroscience
+  educators
+    teachers
+  students
+  infants
+  kids
+  teens
+  adults
+  seniors
+  patients 
+  caregivers
 
 
 

@@ -40,6 +40,8 @@ experts
     dabi
     edab
 
+neuroscience
+
 community
 
 news
@@ -153,8 +155,9 @@ uncategorized
 audience
   public
   private
+  members
   experts
-  neuroscientists
+  neuroscience
   infants
   kids
     fun
