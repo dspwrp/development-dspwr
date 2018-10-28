@@ -43,13 +43,20 @@ Extracting
 
 Notes
 -----
-	selection of fields for searching
-	extraction of content to create sections for better user experience and taxonomy
-		audit analysis of collections' patterns in html code
-		creating sections, taxonomy for searching, filtering, querying and user experience
-		css styling
+	collections
+		audit analysis of collections' patterns in page html code
+	collections
+		extraction of page html code to create sections for better user experience and taxonomy
+		extraction of page html code to create sections for searching, filtering and querying 
+		extraction of page html code for css styling
+	collections
+	 	discovery of taxonomy for extraction and creating new taxonomy for colllections
+	collections
+		phase one extraction of list and details body  
+		phase two extraction of list and details body sections and elements
+	collections
+		fields for searching pages and subpaages
 
-		
 collections
 Xxx 
 ---------------

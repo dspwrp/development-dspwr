@@ -2,16 +2,19 @@
 department
 programs
 
+showcase
 features
 functionalities
-
-games
 apps
+games
+mixed reality
 
 skills
 redesign
 information architecture
 modern design
+visuals
+data visualization
 user experience
 engagment
 growth
@@ -33,5 +36,7 @@ knowledge
 leadership
 data
 search
+
+simple
 
 outsource
