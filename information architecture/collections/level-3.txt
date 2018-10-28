@@ -1,0 +1,492 @@
+
+Information Architecture
+ Collections
+ Level III
+------------------------
+dana
+
+about
+  dana
+  programs
+    grants
+    dabi
+      baw 
+    edab
+  initiatives
+      timeline
+      staff
+      contact
+      board
+      executive
+    privacy
+    feedback
+
+programs
+  grants
+  dabi
+    baw
+  edab
+
+initiatives
+
+members
+experts
+  dana
+    expert directory
+  programs
+    dabi
+    edab
+
+community
+
+news
+  dana
+  programs
+  members
+  community
+  internal
+  external
+    press releases
+    announcements
+    awards
+
+events
+  dana
+  programs
+  members
+  community
+  internal
+  external
+
+videos
+podcasts 
+  dana
+  programs
+
+articles
+  dana
+  programs
+  members
+  community
+  news
+  publications
+  internal
+  external
+    qa
+    interviews
+    cerebrum
+    brain in the news
+ primers
+     cerebrum
+     brain in the news
+     neuro education
+     neuro ethics
+     briefing papers
+     report on progress
+     progress report
+     questions and answers (communications conversations speaking) programs
+     questions and answers (communications conversations speaking)
+     questions and answers in the lab (communications conversations speaking) programs
+     questions and answers in the lab (communications conversations speaking)
+     interviews (communications conversations speaking) programs
+     interviews (communications conversations speaking)
+      "search for interview tith.."
+     opinions 
+      opinions columnist
+      opinions reviews
+    brain health
+    the brain
+    
+publications
+  dana
+  programs
+  members
+  community
+    books
+      subrights
+  language
+  ebooks
+  order
+    programs
+      dabi
+      edab
+brain disorders
+brain terms
+  dana
+  programs
+  members
+  community
+
+reports
+  dana
+  programs
+    financial
+    baw
+    neuroscience
+
+gallery
+  dana
+  programs
+    baw
+
+education
+
+archive
+
+resources
+
+audience
+
+
+
+Information Architecture
+ Collections
+  Sitemap
+   user and business needs
+  Map
+   Navigation
+   Header
+   Footer
+   Universe
+    Links
+
+    Menu
+    
+    Themes
+    Templates
+    Pages
+------------------------ 
+
+- Experts
+   -- Members
+- Audience
+   - experts
+   -- neuroscientists
+   -- infants
+   -- kids
+   -- adults
+   -- seniors
+   -- educators
+   -- caregivers
+   -- students
+   -- patients
+   -- laws
+   -- policy makers
+- Resources
+   -- external
+- Topics
+- Tags
+- Taxonomy
+- Articles
+- Neuroscience
+- Brain Health
+- The Brain
+- News
+- Announcements
+- Awards
+- Events
+   -- talks
+   -- conferences
+- Education
+- Programs
+- Brain Term "table of contents for brain terms act as wiki"
+- Brain Disease and Disorder
+- Deep Dive
+- Opinions
+   -- questions and answeres
+   -- interviews
+       --- dana search the news archive title for "interview with..."
+- Conversations
+   -- In The Lab
+- Spotted
+- Emerging Tools
+- Publications
+   -- digital
+   -- books
+       --- dabi members
+   -- categories
+   -- dabi
+   -- edab
+   -- education
+   -- audience
+       --- infants
+       --- kids
+       --- adults
+       --- seniors
+       --- educators
+            ---- teachers
+                  ----- lessonplans
+                         ----- grades 6-8
+       --- factsheets
+       --- puzzles
+       --- primers       
+- Blog
+- Wiki
+- Report on Progress
+- Progress Report
+   -- Impact
+   -- Achievements
+   -- Milestones
+- Policymakers
+
+- Synonyms 
+   -- briefing papers as research findings in at dana as brainwork
+   -- primers as basics, introduction, beginner, kids
+   
+- Modeling Categories
+   -- Community 
+   -- Community as to Connect, share and learn
+       --- Get Involved
+       --- Get Involved as Write for The Dana Foundation
+       --- Get Involved as Join us at a Meetup
+
+
+
+Information Architecture
+ Collections
+  Sitemap
+   user and business needs
+  Map
+------------------------
+dana
+
+about
+  dana
+  programs
+    grants
+    dabi
+      baw 
+    edab
+  initiatives
+      timeline
+      staff
+      contact
+      board
+      executive
+    privacy
+    feedback
+
+programs
+  grants
+  dabi
+    baw
+  edab
+
+initiatives
+
+members
+experts
+  dana
+    expert directory
+  programs
+    dabi
+    edab
+
+community
+
+news
+  dana
+  programs
+  members
+  community
+  internal
+  external
+    press releases
+    announcements
+    awards
+
+events
+  dana
+  programs
+  members
+  community
+  internal
+  external
+
+videos
+podcasts 
+  dana
+  programs
+
+articles
+  dana
+  programs
+  members
+  community
+  news
+  publications
+  internal
+  external
+    qa
+    interviews
+    cerebrum
+    brain in the news
+ primers
+     cerebrum
+     brain in the news
+     neuro education
+     neuro ethics
+     briefing papers
+     report on progress
+     progress report
+     questions and answers (communications conversations speaking) programs
+     questions and answers (communications conversations speaking)
+     questions and answers in the lab (communications conversations speaking) programs
+     questions and answers in the lab (communications conversations speaking)
+     interviews (communications conversations speaking) programs
+     interviews (communications conversations speaking)
+      "search for interview tith.."
+     opinions 
+      opinions columnist
+      opinions reviews
+    brain health
+    the brain
+    
+publications
+  dana
+  programs
+  members
+  community
+    books
+      subrights
+  language
+  ebooks
+  order
+    programs
+      dabi
+      edab
+brain disorders
+brain terms
+  dana
+  programs
+  members
+  community
+
+reports
+  dana
+  programs
+    financial
+    baw
+    neuroscience
+
+gallery
+  dana
+  programs
+    baw
+
+education
+
+archive
+
+resources
+
+audience
+
+
+
+*********************************************************
+
+Information Architecture
+ Collections
+  Sitemap
+   user and business needs
+  Map
+   Navigation
+   Header
+   Footer
+   Universe
+    Links
+
+    Menu
+    
+    Themes
+    Templates
+    Pages
+------------------------ 
+
+- Experts
+   -- Members
+- Audience
+   - experts
+   -- neuroscientists
+   -- infants
+   -- kids
+   -- adults
+   -- seniors
+   -- educators
+   -- caregivers
+   -- students
+   -- patients
+   -- laws
+   -- policy makers
+- Resources
+   -- external
+- Topics
+- Tags
+- Taxonomy
+- Articles
+- Neuroscience
+- Brain Health
+- The Brain
+- News
+- Announcements
+- Awards
+- Events
+   -- talks
+   -- conferences
+- Education
+- Programs
+- Brain Term "table of contents for brain terms act as wiki"
+- Brain Disease and Disorder
+- Deep Dive
+- Opinions
+   -- questions and answeres
+   -- interviews
+       --- dana search the news archive title for "interview with..."
+- Conversations
+   -- In The Lab
+- Spotted
+- Emerging Tools
+- Publications
+   -- digital
+   -- books
+       --- dabi members
+   -- categories
+   -- dabi
+   -- edab
+   -- education
+   -- audience
+       --- infants
+       --- kids
+       --- adults
+       --- seniors
+       --- educators
+            ---- teachers
+                  ----- lessonplans
+                         ----- grades 6-8
+       --- factsheets
+       --- puzzles
+       --- primers       
+- Blog
+- Wiki
+- Report on Progress
+- Progress Report
+   -- Impact
+   -- Achievements
+   -- Milestones
+- Policymakers
+
+- Synonyms 
+   -- briefing papers as research findings in at dana as brainwork
+   -- primers as basics, introduction, beginner, kids
+   
+- Modeling Categories
+   -- Community 
+   -- Community as to Connect, share and learn
+       --- Get Involved
+       --- Get Involved as Write for The Dana Foundation
+       --- Get Involved as Join us at a Meetup
+
+
+
+       
