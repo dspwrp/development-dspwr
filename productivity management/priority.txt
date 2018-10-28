@@ -1,9 +1,14 @@
-outsource
+
 department
+programs
+
 features
 functionalities
+
 games
 apps
+
+skills
 redesign
 information architecture
 modern design
@@ -28,3 +33,5 @@ knowledge
 leadership
 data
 search
+
+outsource
