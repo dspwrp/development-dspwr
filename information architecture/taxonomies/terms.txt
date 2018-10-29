@@ -153,6 +153,7 @@ Taxonomy
       terms_aud_members
       terms_aud_experts
       terms_aud_neuroscience
+      terms_aud_grantees
       terms_aud_educators
         terms_aud_teachers
       terms_aud_students

@@ -41,7 +41,7 @@ Extracting
   	designing
   		css
 
-Notes
+notes
 -----
 	collections
 		audit analysis of collections' patterns in page html code
@@ -56,7 +56,9 @@ Notes
 		phase two extraction of list and details body sections and elements
 	collections
 		fields for searching pages and subpaages
-
+			title
+			
+notes
 discovery
 search
  dana.org

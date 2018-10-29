@@ -40,6 +40,10 @@ search
 simple
 
 updated
+	updates
+updated
+	ia organization updates
+	ia design updates
 modern design
 user experience
 user interactions

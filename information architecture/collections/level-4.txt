@@ -4,6 +4,8 @@ Information Architecture
  Level IV
 ------------------------
 dana
+  financial statements
+  annual reports
 
 about
   dana
@@ -95,6 +97,8 @@ articles
 publications
   dana
   programs
+    dabi
+    edab
   members
   community
     books
@@ -109,10 +113,6 @@ publications
         italian 
         portuguese
         turkish 
-    order
-      programs
-        dabi
-        edab
 
 brain disorders
 brain terms
@@ -120,12 +120,6 @@ brain terms
   programs
   members
   community
-
-reports
-  dana
-  programs
-    financial
-    baw
 
 gallery
   dana
@@ -135,6 +129,11 @@ gallery
 featured
 
 discontinued
+
+order
+  programs
+    dabi
+    edab
 
 education
   intittaitives
@@ -156,6 +155,7 @@ audience
   members
   experts
   neuroscience
+  grantees
   infants
   kids
     fun
