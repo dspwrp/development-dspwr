@@ -1,0 +1,131 @@
+
+Fields
+------
+  pages
+    page_title 
+    page_url 
+    page_body_content
+
+  collections
+    list 
+      list_title 
+      list_title_url
+      list_title_url_blog
+      list_title_url_external	
+      list_summary
+      list_img_thumb 
+      list_author
+      list_date 
+      list_integration_asset
+
+    detail 
+      detail_html_code
+
+      detail_title
+      detail_title_summary
+      detail_img_thumb
+      detail_author
+      detail_date
+
+      detail_hero 
+      detail_hero_title
+      detail_hero_summary
+      detail_hero_r_img	
+      detail_hero_r_pdf
+      detail_hero_r_podcast 
+
+      detail_hero_r_video
+      detail_hero_r_publications
+
+      detail_hero_r_articles
+
+      detail_hero_authors
+      detail_hero_date 
+
+      detail_hero_r_ext_wiki
+
+      taxonomy
+      tags
+
+      related
+
+Fields
+ Cerebrum
+---------
+
+Fields
+ Publications
+---------
+
+Fields
+ Events
+---------
+
+Fields
+ Reports
+---------
+
+Fields
+ Grants
+-------
+  grants
+    title
+   summary
+   author
+   title
+   organization
+   funded_date
+   funded_amount
+   funded_number_years
+   lay summary
+   abstract
+   hypothesis
+   findings
+   selected publications
+   keywords
+    functinon
+    conditions
+    technology
+    anatomy
+     "scrape keywords to be used as tags"
+   investigator biographies
+   investigator biographies author
+  events
+   brain awareness week
+    start date
+    end date
+    location
+    event type (as audience)
+    event audience
+    event date
+    event date year
+    event title
+    event description
+  news
+   title
+   summary
+   date
+  neuroscience
+  programs
+   brain awareness week
+    photo gallery description
+    photo gallery celebrates the art of the brain
+    members partners
+     organization
+     organization url
+     organization location
+     organization subcategory organization
+     organization subcategory department
+  publications
+   books 
+
+ content
+ sections
+  fields
+   "fields by adding div class in outer of div"
+
+  location
+  organization
+  organization sponsor
+  institution
+

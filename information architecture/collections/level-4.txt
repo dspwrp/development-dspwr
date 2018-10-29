@@ -1,11 +1,11 @@
 
 Information Architecture
  Collections
-  Sitemap
-   user and business needs
-  Map
+ Level IV
 ------------------------
 dana
+  financial statements
+  annual reports
 
 about
   dana
@@ -25,8 +25,11 @@ about
 
 programs
   grants
+    current
+    previous
   dabi
     baw
+    scouts
   edab
 
 initiatives
@@ -39,6 +42,10 @@ experts
     dabi
     edab
 
+neuroscience
+
+authors
+
 community
 
 news
@@ -48,6 +55,7 @@ news
   community
   internal
   external
+    press room
     press releases
     announcements
     awards
@@ -64,6 +72,7 @@ videos
 podcasts 
   dana
   programs
+  capitol hill briefings
 
 articles
   dana
@@ -74,44 +83,37 @@ articles
   publications
   internal
   external
-    qa
-    interviews
+    briefing papers 
+    progress report
     cerebrum
     brain in the news
- primers
-     cerebrum
-     brain in the news
-     neuro education
-     neuro ethics
-     briefing papers
-     report on progress
-     progress report
-     questions and answers (communications conversations speaking) programs
-     questions and answers (communications conversations speaking)
-     questions and answers in the lab (communications conversations speaking) programs
-     questions and answers in the lab (communications conversations speaking)
-     interviews (communications conversations speaking) programs
-     interviews (communications conversations speaking)
-      "search for interview tith.."
-     opinions 
-      opinions columnist
-      opinions reviews
-    brain health
-    the brain
-    
+    questions and answers
+      in the lab
+    interviews
+    primers
+    neuro education
+    neuro ethics
+
 publications
   dana
   programs
+    dabi
+    edab
   members
   community
     books
       subrights
-  language
-  ebooks
-  order
-    programs
-      dabi
-      edab
+    ebooks
+      fact sheets
+      puzzles
+      language 
+        french 
+        spanish 
+        german 
+        italian 
+        portuguese
+        turkish 
+
 brain disorders
 brain terms
   dana
@@ -119,23 +121,54 @@ brain terms
   members
   community
 
-reports
-  dana
-  programs
-    financial
-    baw
-    neuroscience
-
 gallery
   dana
   programs
     baw
 
+featured
+
+discontinued
+
+order
+  programs
+    dabi
+    edab
+
 education
+  intittaitives
+  educators
+  teachers
+    lesson plans
+  students
+    grades 6-8
+
+blog
 
 archive
 
 resources
-
+     
 audience
+  public
+  private
+  members
+  experts
+  neuroscience
+  grantees
+  infants
+  kids
+    fun
+    lab
+  adults
+  seniors
+  educators
+  caregivers
+  students
+  patients
 
+taxonomy
+
+
+
+ 

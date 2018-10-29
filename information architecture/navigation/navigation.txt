@@ -1,18 +1,3 @@
-
-
--# = menu links
-
-*f = flows 
-*c = categories 
-*p = pages  
-*cc = collections 
-
-"note: menu should be designed as story telling in a flow format"
-
---- Links --- 
---- Menu --- 
---- collections ---
--- Header --
 <ul id="menu-home">
   #home 
 </ul>
@@ -53,6 +38,7 @@
     Xxx
   others
 </ul>
+
 
 <ul id="menu-the-brain">
   the-brain 
@@ -269,66 +255,3 @@
 <ul class="footer-social-media">
   <li><a>Social Media</a></li> 
 </ul>
-
---- Links ---
---- Information Architecture ---
---- Flows ---
---- Categories ---
---- Pages ---
---- Collections ---
-"determine which are flows, categories, pages and collections"
--- audiences --
-audiences *
-resources *
-publications *
-neuroscience *
-education *
-educators
-infants
-kids
-teens
-adults
-seniors
-patients
-caregivers
-
-community 
-  public 
-  scientific
-
-external resources 
-resources 
-
-order form 
-order
-
-
--- resources --
--- external resources --
--- local --
--- resources --
--- authors --
--- order form --
-
---- Tags --- 
-- deep dive
-- emerging tools
-- conversation
-- opinions
-- others
-
-
-
---- references ---
- audience
-  ages
-   infants
-   kids
-   teens
-   adults
-   seniors
-  students
-  neuroscientists
-  teachers
-  caregivers
-  patients
