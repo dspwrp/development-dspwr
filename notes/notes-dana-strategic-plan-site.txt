@@ -1,0 +1,13 @@
+
+- site config system.yaml "site url configuration"
+- statamic config app.yaml "site url configuration"
+ 
+- site phases
+   - one update
+   - two modern
+   - three ux 
+
+Terms
+----
+- find terms for modeling mockup inspirations for productivity
+
