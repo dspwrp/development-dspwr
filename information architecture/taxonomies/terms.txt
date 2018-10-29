@@ -164,7 +164,16 @@ Taxonomy
       terms_aud_patients 
       terms_aud_caregivers
 
-
+    cat_related
+      terms_rel
+        terms_rel_pdf
+        terms_rel_podcast
+        terms_rel_video
+        terms_rel_transcript
+        terms_rel_article
+        terms_rel_author
+        terms_rel_author_book
+        terms_rel_author_intergration_wiki
 
 
 

@@ -57,9 +57,45 @@ Notes
 	collections
 		fields for searching pages and subpaages
 
-collections
-Xxx 
----------------
+discovery
+search
+ dana.org
+---------
+- events taxonomy
+- videos taxonomy
+- podcasts taxonomy
+- progress report taxonomy
+- interviews taxonomy
+- publications taxonomy
+- resources taxonomy
+
+podcasts 
+--------
+- extract field podcast cerebrum article
+- extract field podcast transcript
+
+videos 
+------
+- download video for intergration
+- slugify video name with title
+	-- https://you.tools/slugify/
+
+authors 
+-------
+- extract field .white_home
+- extract field .white_home img
+	-- removing field .white_home img for layout correction
+- extract field .white_home #ctl00_ContentPlaceHolder1_spnDescription
+- "some instance of two images in .white_home"
+
+- extract field #ctl00_ContentPlaceHolder1_lblAuthor
+	-- slugify field #ctl00_ContentPlaceHolder1_lblAuthor 
+- extract field #Div8
+- extract field #Div8 img 
+- inside html code of articles find substring (/Authors and /People/Authors.aspx) of authors then replace with statamic slugify
+ 
+
+
 neuroscience cerebrum
  - create database manually for 1-3 years
  - extract details from list_title_url then later matched in excel

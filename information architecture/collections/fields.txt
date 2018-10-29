@@ -16,7 +16,8 @@ Fields
       list_img_thumb 
       list_author
       list_date 
-   
+      list_integration_asset
+
     detail 
       detail_html_code
 
