@@ -71,31 +71,53 @@ search
 - publications taxonomy
 - resources taxonomy
 
-podcasts 
---------
-- extract field podcast cerebrum article
-- extract field podcast transcript
 
-videos 
-------
-- download video for intergration
-- slugify video name with title
-	-- https://you.tools/slugify/
+
+dana
+-----
+
+about
+-----
+	- about_dana section div.bucket class
+	about_dana_index - about dana remove directore staff, financial, annual reports
+	html code links needs to be updated
+
+programs
+-------
 
 authors 
 -------
-- extract field .white_home
-- extract field .white_home img
-	-- removing field .white_home img for layout correction
-- extract field .white_home #ctl00_ContentPlaceHolder1_spnDescription
-- "some instance of two images in .white_home"
+[ ] authors
+	- extract field .white_home
+	- extract field .white_home img
+		-- removing field .white_home img for layout correction
+	- extract field .white_home #ctl00_ContentPlaceHolder1_spnDescription
+	- "some instance of two images in .white_home"
 
-- extract field #ctl00_ContentPlaceHolder1_lblAuthor
-	-- slugify field #ctl00_ContentPlaceHolder1_lblAuthor 
-- extract field #Div8
-- extract field #Div8 img 
-- inside html code of articles find substring (/Authors and /People/Authors.aspx) of authors then replace with statamic slugify
+	- extract field #ctl00_ContentPlaceHolder1_lblAuthor
+		-- slugify field #ctl00_ContentPlaceHolder1_lblAuthor 
+	- extract field #Div8
+	- extract field #Div8 img 
+	- inside html code of articles find substring (/Authors and /People/Authors.aspx) of authors then replace with statamic slugify
  
+home 
+--------
+[ ] html_code update and point links to dana.org
+
+
+podcasts 
+--------
+[ ] podcasts collections extract field podcast article for integration with statamic articles
+[ ] podcasts collections extract field podcast transcript for integration with statamic articles
+[ ] podcasts collections terms updating based on machine learning
+
+videos 
+------
+[ ] download video for integration
+	- slugify video name with title
+		-- https://you.tools/slugify/
+
+
 
 
 neuroscience cerebrum

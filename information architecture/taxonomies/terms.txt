@@ -2,6 +2,16 @@ Information Architecture
 Taxonomy
   Terms
 ------------------------ 
+dana_home_content
+dana_home_content_section_xxx
+dana_home_hero
+dana_home_address
+dana_home_contact
+dana_home_copyright
+dana_home_feedback
+dana_home_privacy
+newsletter_box
+
 timeline_prog_dana
 timeline_prog_dabi
 timeline_prog_edab
@@ -60,6 +70,8 @@ prog_edab
 podcasts_prog_dana
 podcasts_prog_dabi
 podcasts_prog_edab
+cat_podcasts
+  terms_podcasts
 
 videos_prog_dana
 videos_prog_dabi
@@ -110,11 +122,13 @@ brain_terms
 education
   news_neuroscience_neuro_education
 
+
+
 Taxonomy
 --------
-  Categories
-  ----------
   Terms
+   Categories
+  References
   ----------
     cat_authors
     cat_news 
@@ -125,6 +139,7 @@ Taxonomy
       terms_podcasts
 
     cat_articles 
+
     cat_cerebrum 
       terms_cerebrum 
 
@@ -136,8 +151,26 @@ Taxonomy
         terms_pub_puzzles
 
     cat_featured
+        terms_featured
+
+    cat_internal 
+        terms_int
+    cat_external 
+        terms_ext
+
+    cat_related
+      terms_rel
+        terms_rel_pdf
+        terms_rel_podcast
+        terms_rel_video
+        terms_rel_transcript
+        terms_rel_article
+        terms_rel_author
+        terms_rel_author_book
+        terms_rel_author_intergration_wiki
 
     cat_education 
+        terms_education
 
     cat_resources
       terms_rsrc 
@@ -145,9 +178,6 @@ Taxonomy
         terms_rsrc_prog_dabi
         terms_rsrc_prog_dabi_baw
         terms_rsrc_prog_edab
-
-    cat_internal 
-    cat_external 
 
     cat_audiences
       terms_aud_members
@@ -165,16 +195,6 @@ Taxonomy
       terms_aud_patients 
       terms_aud_caregivers
 
-    cat_related
-      terms_rel
-        terms_rel_pdf
-        terms_rel_podcast
-        terms_rel_video
-        terms_rel_transcript
-        terms_rel_article
-        terms_rel_author
-        terms_rel_author_book
-        terms_rel_author_intergration_wiki
 
 
 
