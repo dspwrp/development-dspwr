@@ -2,9 +2,9 @@
 Fields
 ------
   pages
-    page_title 
-    page_url 
-    page_body_content
+    page_list_title   
+    page_list_title_summary 
+    html_code 
 
   collections
     list 
@@ -16,11 +16,15 @@ Fields
       list_img_thumb 
       list_author
       list_date 
+      list_event_organization
+      list_event_location
+      list_event_start_date 
+      list_event_end_date
+      list_event_description
       list_integration_asset
+      html_code 
 
     detail 
-      detail_html_code
-
       detail_title
       detail_title_summary
       detail_img_thumb
@@ -48,6 +52,8 @@ Fields
       tags
 
       related
+
+      html_code
 
 Fields
  Cerebrum

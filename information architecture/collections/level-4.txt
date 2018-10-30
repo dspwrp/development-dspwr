@@ -7,6 +7,7 @@ dana
   financial statements
   annual reports
 
+
 about
   dana
   programs
@@ -46,7 +47,19 @@ neuroscience
 
 authors
 
+
 community
+
+home
+  _index
+  _index_xxx
+  _hero
+  _address
+  _contact_us
+  _copyright
+  _feedback
+  _privacy
+  _newsletter_box
 
 news
   dana
@@ -71,6 +84,7 @@ events
 videos
 podcasts 
   dana
+    _podcasts_list_title 
   programs
   capitol hill briefings
 

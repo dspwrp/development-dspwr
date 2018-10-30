@@ -57,3 +57,7 @@ important
 beautiful
 simple
 minimalism
+
+features
+	articles by authors
+	
