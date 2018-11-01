@@ -1,11 +1,9 @@
 
-Statamic
-
 Information Architecture
  Collections
+ Sitemap
  Terms
-
- Level I
+Level I
 ------------------------
 Dana
   About
@@ -14,7 +12,7 @@ Dana
 Members
 Authors
 community 
-"...connect, share and learn" 
+"connect, share and learn" 
 "get involved" 
 "write for the dana foundation" 
 "join us at a meetup"
@@ -81,7 +79,7 @@ deep dive
 
 QA
 Interviews 
-"...search for interview"
+"search for interview"
 Columnist
 
 research findings 

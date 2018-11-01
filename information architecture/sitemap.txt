@@ -1,1 +1,185 @@
-sitemap.txt
+
+"dana.org"
+
+Information Architecture
+ Sitemap
+ Statamic
+------------------------ 
+dana
+  financial statements
+  annual reports
+
+	about
+	  dana
+	  programs
+	    grants
+	    dabi
+	      baw 
+	    edab
+	  initiatives
+	      timeline
+	      staff
+	      contact
+	      board
+	      executive
+	    privacy
+	    feedback
+
+	programs
+	  grants
+	    current
+	    previous
+	  dabi
+	    baw
+	    scouts
+	  edab
+
+	initiatives
+
+members
+experts
+  dana
+    expert directory
+  programs
+    dabi
+    edab
+
+neuroscience
+
+authors
+
+
+community
+
+home
+  _index
+  _index_xxx
+  _hero
+  _address
+  _contact_us
+  _copyright
+  _feedback
+  _privacy
+  _newsletter_box
+
+news
+  dana
+  programs
+  members
+  community
+  internal
+  external
+    press room
+    press releases
+    announcements
+    awards
+
+events
+  dana
+  programs
+  members
+  community
+  internal
+  external
+
+videos
+podcasts 
+  dana
+    _podcasts_list_title 
+  programs
+  capitol hill briefings
+
+articles
+  dana
+  programs
+  members
+  community
+  news
+  publications
+  internal
+  external
+    briefing papers 
+    progress report
+    cerebrum
+    brain in the news
+    questions and answers
+      in the lab
+    interviews
+    primers
+    neuro education
+    neuro ethics
+
+publications
+  dana
+  programs
+    dabi
+    edab
+  members
+  community
+    books
+      subrights
+    ebooks
+      fact sheets
+      puzzles
+      language 
+        french 
+        spanish 
+        german 
+        italian 
+        portuguese
+        turkish 
+
+brain disorders
+brain terms
+  dana
+  programs
+  members
+  community
+
+gallery
+  dana
+  programs
+    baw
+
+featured
+
+discontinued
+
+order
+  programs
+    dabi
+    edab
+
+education
+  intittaitives
+  educators
+  teachers
+    lesson plans
+  students
+    grades 6-8
+
+blog
+
+archive
+
+resources
+     
+audience
+  public
+  private
+  members
+  experts
+  neuroscience
+  grantees
+  infants
+  kids
+    fun
+    lab
+  adults
+  seniors
+  educators
+  caregivers
+  students
+  patients
+
+taxonomy
