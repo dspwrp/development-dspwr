@@ -1,167 +1,111 @@
-Audit
-Analysis
-Site
-Collections
- Html
- Code
------------
-	extraction
-		sections
-		elements
-	taxomy
-	terms
-	tagging
 
-	css styling
+Statamic
 
-Audit
-Site
-Dana.org
-Collections
-Analysis
-Finding 
-	Terms
-		Searching
-	Sections
-Extracting
-	Terms
- 		Page
- 		Html
- 		Code
------------
-	collections
-	fields
+Information Architecture
+ Collections
+ Terms
 
-    sections
-    elements
+ Level I
+------------------------
+Dana
+  About
+  Programs
+  Initiatives
+Members
+Authors
+community 
+"...connect, share and learn" 
+"get involved" 
+"write for the dana foundation" 
+"join us at a meetup"
+News
+Events
+Podcasts
+Videos
+Articles
+Publications
+Education
+Resources
+  Internal
+  External
+Archive
+Audiences
+  Members
+  experts
+    Neuroscience
+  Public
+    infants
+    Kids
+    teens
+    Adults
+    Seniors
+    Patients 
+    Caregivers
+  Education
+    Educators
+      Teachers
+    Students
+Search
+Terms
 
-	classification
-	taxonomy
+Level II
+--------
+Timeline
+Reports
+Announcements
+Press Releases
+Newsletters
+Awards
+Neuroscience
+  Progress Report
+Brain Disorders
+Brain Terms
+Order
+Gallery
 
-  	designing
-  		css
-
-notes
------
-	collections
-		audit analysis of collections' patterns in page html code
-	collections
-		extraction of page html code to create sections for better user experience and taxonomy
-		extraction of page html code to create sections for searching, filtering and querying 
-		extraction of page html code for css styling
-	collections
-	 	discovery of taxonomy for extraction and creating new taxonomy for colllections
-	collections
-		phase one extraction of list and details body  
-		phase two extraction of list and details body sections and elements
-	collections
-		fields for searching pages and subpaages
-			title
-			
-notes
-discovery
-search
- dana.org
+Level III
+Terms
 ---------
-- events taxonomy
-- videos taxonomy
-- podcasts taxonomy
-- progress report taxonomy
-- interviews taxonomy
-- publications taxonomy
-- resources taxonomy
+communications
+  speaking
+  conversations
+    lectures
+    talks
+    webinars
+basics
+  primers
+the brain
+brain health
+  nutrition
+deep dive
+
+QA
+Interviews 
+"...search for interview"
+Columnist
+
+research findings 
+  briefing papers
+opinions 
+  views
+reviews
+progress report
+  impact
+  achievements
+  milestones
+spotted
+laws
+policy makers
+wiki
+emerging tools
+
+social
+  workshops
+  conferences
+    events
+
+Resources
+---------
+  https://www.aaas.org/events
 
 
-
-dana
------
-
-about
------
-	- about_dana section div.bucket class
-	about_dana_index - about dana remove directore staff, financial, annual reports
-	html code links needs to be updated
-
-programs
--------
-
-authors 
--------
-[ ] authors
-	- extract field .white_home
-	- extract field .white_home img
-		-- removing field .white_home img for layout correction
-	- extract field .white_home #ctl00_ContentPlaceHolder1_spnDescription
-	- "some instance of two images in .white_home"
-
-	- extract field #ctl00_ContentPlaceHolder1_lblAuthor
-		-- slugify field #ctl00_ContentPlaceHolder1_lblAuthor 
-	- extract field #Div8
-	- extract field #Div8 img 
-	- inside html code of articles find substring (/Authors and /People/Authors.aspx) of authors then replace with statamic slugify
- 
-home 
---------
-[ ] html_code update and point links to dana.org
-
-
-podcasts 
---------
-[ ] podcasts collections extract field podcast article for integration with statamic articles
-[ ] podcasts collections extract field podcast transcript for integration with statamic articles
-[ ] podcasts collections terms updating based on machine learning
-
-videos 
-------
-[ ] download video for integration
-	- slugify video name with title
-		-- https://you.tools/slugify/
-
-
-
-
-neuroscience cerebrum
- - create database manually for 1-3 years
- - extract details from list_title_url then later matched in excel
- - extract details header from list_title_url then later matched in excel
- - extract details body from list_title_url then later matched in excel
- - extract fields from details header or body
- - 2012 no authors
-
-baw events
- - event date, separate event date to extract start and end date for new columns
- - address, see how many of them to clean and extract long and lat for new column
- - event type, turn event type into sub event type fields to query
- - event audience, turn audience into sub event audience fields to query
-
-neuroscience news archive
- - extract title then extract details
-
-baw partners
-- extract partner individually
-- extract partner name
-- extract partner location
-- extract partner website url
-   -- patterns two br then next line quotes
-   -- patterns partners can have sub partners
-- create partner type column
-
-neuroscience neuroeducation
-
-neuroscience neuroethics
-
-neuroscience qa dana
- - extract title
- - extract url to navigate
- - extract partner name
-
-neuroscience qa grants
-
-baw gallery
- - extract date from text file for new column
- - continuing with scraping other dates
-
-authors 
- - add dana.org url and extract the followings
-    -- get author name #ctl00_ContentPlaceHolder1_lblAuthor
-    -- get content body .white_home
