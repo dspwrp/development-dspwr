@@ -12,10 +12,6 @@ Dana
 Members
 Authors
 community 
-"connect, share and learn" 
-"get involved" 
-"write for the dana foundation" 
-"join us at a meetup"
 News
 Events
 Podcasts
@@ -24,8 +20,8 @@ Articles
 Publications
 Education
 Resources
-  Internal
-  External
+Internal
+External
 Archive
 Audiences
   Members
@@ -49,11 +45,12 @@ Terms
 Level II
 --------
 Timeline
-Reports
+Financial Statements
+Annual Reports
 Announcements
+Awards
 Press Releases
 Newsletters
-Awards
 Neuroscience
   Progress Report
 Brain Disorders
@@ -78,8 +75,7 @@ brain health
 deep dive
 
 QA
-Interviews 
-"search for interview"
+Interviews  
 Columnist
 
 research findings 
@@ -101,9 +97,5 @@ social
   workshops
   conferences
     events
-
-Resources
----------
-  https://www.aaas.org/events
 
 

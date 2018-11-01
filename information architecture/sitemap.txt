@@ -3,91 +3,95 @@
 
 Information Architecture
  Sitemap
- Statamic
+  Pages
 ------------------------ 
-dana
-  financial statements
-  annual reports
+shared
+	- education
+	- resources
+	- audiences
+	- internal
+	- external
 
+dana
 	about
-	  dana
-	  programs
-	    grants
-	    dabi
-	      baw 
-	    edab
-	  initiatives
-	      timeline
-	      staff
-	      contact
-	      board
-	      executive
-	    privacy
-	    feedback
+		dana
+		programs
+	    	grants
+	    	dabi
+	    		baw 
+	    	edab
+		timeline
 
 	programs
-	  grants
-	    current
-	    previous
-	  dabi
-	    baw
-	    scouts
-	  edab
+		grants
+		dabi
+	    	baw
+	  	edab
 
 	initiatives
 
+	board
+	executive
+	staff
+	
+  	financial statements
+  	annual reports
+
+	feedback
+
+  	contact
+
+	privacy
+	
+
 members
 experts
-  dana
-    expert directory
-  programs
-    dabi
-    edab
+	dana
+		neuroscientists
+		expert directory
+  	programs
+    	dabi
+		edab
 
-neuroscience
-
-authors
-
-
-community
+	authors
+	
+	community
 
 home
-  _index
-  _index_xxx
-  _hero
-  _address
-  _contact_us
-  _copyright
-  _feedback
-  _privacy
-  _newsletter_box
+index
 
 news
-  dana
-  programs
-  members
-  community
-  internal
-  external
-    press room
-    press releases
-    announcements
-    awards
+	dana
+	programs
+	members
+	authors
+	community
+		press room
+			index
+		announcements
+		awards
+		press releases
+		neuro ethics
+		newsletters
 
 events
-  dana
-  programs
-  members
-  community
-  internal
-  external
+	dana
+	programs
+	members
+	authors
+	community
+	terms
+		lecture
+		workshop
+		others
 
 videos
 podcasts 
-  dana
-    _podcasts_list_title 
-  programs
-  capitol hill briefings
+	dana 
+	programs
+		dabi
+		edab
+  		capitol hill briefings
 
 articles
   dana
@@ -108,6 +112,7 @@ articles
     primers
     neuro education
     neuro ethics
+    archive
 
 publications
   dana
@@ -131,55 +136,61 @@ publications
 
 brain disorders
 brain terms
-  dana
-  programs
-  members
-  community
-
-gallery
-  dana
-  programs
-    baw
-
-featured
-
-discontinued
 
 order
   programs
     dabi
     edab
 
-education
-  intittaitives
-  educators
-  teachers
-    lesson plans
-  students
-    grades 6-8
-
 blog
 
+wiki
+
+shared
+	education 
+		intittaitives
+		educators
+		teachers
+	    	lesson plans
+		students
+	    	grades 6-8
+
+	resources
+
+	audiences
+		public
+		members
+		experts
+		neuroscience
+		grantees
+		infants
+			kids
+				fun
+				lab
+		adults
+		seniors
+		educators
+		caregivers
+		students
+		patients
+		private
+	 
 archive
+	dana
+ 		articles
+ 	programs
+ 		dabi
+ 		edab
+ 		staying sharp
 
-resources
-     
-audience
-  public
-  private
-  members
-  experts
-  neuroscience
-  grantees
-  infants
-  kids
-    fun
-    lab
-  adults
-  seniors
-  educators
-  caregivers
-  students
-  patients
+miscellaneous
+	featured
 
-taxonomy
+Information Architecture
+ Sitemap
+  New
+-------------------------
+the brain
+health
+	brain health
+others

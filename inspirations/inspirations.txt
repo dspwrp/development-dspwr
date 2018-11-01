@@ -1,1 +1,5 @@
-inspirations.txt
+information architecture
+collections
+navigation *
+sitemap
+terms

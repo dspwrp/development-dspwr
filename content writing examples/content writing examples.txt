@@ -1,12 +1,20 @@
 
-information architecture
-- simonsfoundation.org
-- spectrumnews.org/
-- invisionapp.com
--- education
--- community
-- designbetter.co
-- mellon.org
+IA
+community 
+"connect share and learn" 
+"get involved" 
+"write for the dana foundation" 
+"join us at a meetup"
+
+Content
+	information architecture
+	- simonsfoundation.org
+	- spectrumnews.org/
+	- invisionapp.com
+	-- education
+	-- community
+	- designbetter.co
+	- mellon.org
 
 Programs
 Initiatives
