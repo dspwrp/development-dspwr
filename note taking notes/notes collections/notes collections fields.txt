@@ -1,0 +1,81 @@
+
+Fields
+ Cerebrum
+---------
+
+Fields
+ Publications
+---------
+
+Fields
+ Events
+---------
+
+Fields
+ Reports
+---------
+
+Fields
+ Grants
+-------
+  grants
+    title
+   summary
+   author
+   title
+   organization
+   funded_date
+   funded_amount
+   funded_number_years
+   lay summary
+   abstract
+   hypothesis
+   findings
+   selected publications
+   keywords
+    functinon
+    conditions
+    technology
+    anatomy
+     "scrape keywords to be used as tags"
+   investigator biographies
+   investigator biographies author
+  events
+   brain awareness week
+    start date
+    end date
+    location
+    event type (as audience)
+    event audience
+    event date
+    event date year
+    event title
+    event description
+  news
+   title
+   summary
+   date
+  neuroscience
+  programs
+   brain awareness week
+    photo gallery description
+    photo gallery celebrates the art of the brain
+    members partners
+     organization
+     organization url
+     organization location
+     organization subcategory organization
+     organization subcategory department
+  publications
+   books 
+
+ content
+ sections
+  fields
+   "fields by adding div class in outer of div"
+
+  location
+  organization
+  organization sponsor
+  institution
+

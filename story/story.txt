@@ -1,7 +1,15 @@
 
 Story
-Information Architecture
-------------------------
+-----
+"the story - the dana foundation communicate message educate of information and resources 
+from research by neuroscientists to audience with the support of staff and others"
+others
+  neuroscientists
+  authors
+  community
+    internal
+    external
+
 Dana
 
 Support
@@ -38,32 +46,5 @@ Benefits
 Audience
 
 
-
-Information Architecture
------------------------- 
-Classification 
-  Categories
-"grouping"
-
-Collections
-  Fields
-  Tags
-
-Sitemap
- user needs
-Links
-Pages
-
-Navigation
-Menu
-
-Themes
-Templates
-
-Terms
-Tags
-Taxonomy 
-"relationship"
-
-
+  
   
