@@ -2,6 +2,7 @@
 
 Information Architecture
  Navigation
+  Site
 ------------------------ 
 
 inspirations
@@ -17,4 +18,3 @@ inspirations
   _feedback
   _privacy
   _newsletter_box
-  
