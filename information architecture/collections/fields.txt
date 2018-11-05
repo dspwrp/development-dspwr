@@ -2,8 +2,9 @@
 Fields
 ------
   pages
-    page_list_title   
-    page_list_title_summary 
+    page_list_title
+    page_list_title_url   
+    page_list_summary 
     html_code 
 
   collections

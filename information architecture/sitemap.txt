@@ -2,8 +2,7 @@
 "dana.org"
 
 Information Architecture
- Sitemap
-  Pages
+ Sitemap 
 ------------------------ 
 shared
 	- education

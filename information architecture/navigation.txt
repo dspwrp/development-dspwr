@@ -18,3 +18,9 @@ inspirations
   _feedback
   _privacy
   _newsletter_box
+
+Menu
+----
+
+Footer
+------
