@@ -1,10 +1,34 @@
 
 Fields
 ------
+list_title  list_title_url  list_event_organization list_event_location list_event_start_date list_event_end_date list_event_description
+
+title event_url event_description event_date  event_start_date  event_end_date  event_address event_address_long_lat  event_type  event_audience  event_registration  event_institution event_institution_sponsor event_contact_name  event_contact_phone event_contact_fax event_contact_email event_website
+
+list_event_description  list_event_date list_event_start_date list_event_end_date list_event_address  list_event_address_long_lat list_event_type list_event_audience list_event_registration list_event_institution  list_event_institution_sponsor  list_event_contact_name list_event_contact_phone  list_event_contact_fax  list_event_contact_email  list_event_website
+
+list_img_issue  list_description_issue
+
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_xxx
+detail_html_code_teaser
+
+  key
+  
+  tags
+
+  related
+
   pages
     page_list_title
     page_list_title_url   
     page_list_summary 
+
     html_code 
 
   collections
@@ -23,7 +47,9 @@ Fields
       list_event_end_date
       list_event_description
       list_integration_asset
-      html_code 
+
+      list_html_code 
+
 
     detail 
       detail_title
@@ -49,9 +75,4 @@ Fields
 
       detail_hero_r_ext_wiki
 
-      taxonomy
-      tags
-
-      related
-
-      html_code
+      detail_html_code
