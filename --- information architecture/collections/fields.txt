@@ -29,51 +29,43 @@ detail_html_code_teaser
 
   collections
     list 
+      list_date 
       list_title 
       list_title_url
       list_title_url_blog
       list_title_url_external	
       list_summary
+      list_description
       list_img_thumb 
       list_img_thumb_issue 
-      list_author
-      list_date 
+      list_author 
+
       list_event_organization
       list_event_location
       list_event_start_date 
       list_event_end_date
       list_event_description
+
       list_integration_asset
 
       list_html_code 
 
 
     detail 
+      detail_date
       detail_title
       detail_title_summary
+      detail_title_description
       detail_img_thumb
       detail_author
-      detail_date
+      
+      detail_rel_img
+      detail_rel_pdf
+      detail_rel_podcast
+      detail_rel_video
+ 
+ list_date  list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_rel_video  detail_html_code  detail_comments
 
-      detail_hero 
-      detail_hero_title
-      detail_hero_summary
-      detail_hero_r_img	
-      detail_hero_r_pdf
-      detail_hero_r_podcast 
 
-      detail_hero_r_video
-      detail_hero_r_publications
 
-      detail_hero_r_articles
 
-      detail_hero_authors
-      detail_hero_date 
-
-      detail_hero_r_ext_wiki
-
-      detail_html_code
-
-      author_name
-      author_img
-      author_bio
