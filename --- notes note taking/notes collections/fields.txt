@@ -15,42 +15,6 @@ Fields
  Reports
 ---------
 
-Fields
- Grants
--------
-  grants
-    title
-   summary
-   author
-   title
-   organization
-   funded_date
-   funded_amount
-   funded_number_years
-   lay summary
-   abstract
-   hypothesis
-   findings
-   selected publications
-   keywords
-    functinon
-    conditions
-    technology
-    anatomy
-     "scrape keywords to be used as tags"
-   investigator biographies
-   investigator biographies author
-  events
-   brain awareness week
-    start date
-    end date
-    location
-    event type (as audience)
-    event audience
-    event date
-    event date year
-    event title
-    event description
   news
    title
    summary
