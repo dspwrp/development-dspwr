@@ -9,12 +9,8 @@ list_event_description  list_event_date list_event_start_date list_event_end_dat
 
 list_img_issue  list_description_issue
 
-detail_html_code_xxx
-detail_html_code_xxx
-detail_html_code_xxx
-detail_html_code_xxx
-detail_html_code_xxx
-detail_html_code_xxx
+member_name member_organization member_wiki
+
 detail_html_code_xxx
 detail_html_code_teaser
 
@@ -39,6 +35,7 @@ detail_html_code_teaser
       list_title_url_external	
       list_summary
       list_img_thumb 
+      list_img_thumb_issue 
       list_author
       list_date 
       list_event_organization
@@ -76,3 +73,7 @@ detail_html_code_teaser
       detail_hero_r_ext_wiki
 
       detail_html_code
+
+      author_name
+      author_img
+      author_bio
