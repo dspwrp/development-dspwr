@@ -1,0 +1,170 @@
+podcasts
+	- collections 
+ 		-- scraping 
+ 			--- podcast from programs_dabi section for better user experience information architecture 
+ 					---- departments
+ 					---- terms
+ 		"high priority"
+
+cerebrum 
+	- collections
+ 		"high priority"
+
+publications 
+	- collections
+ 		"high priority"
+ 	- app
+ 		-- app_publications_books_subrights for pat mangini
+
+bitn 
+	- collections
+ 		"high priority"
+
+baw events
+	- collections
+	"high priority"
+
+events
+	- collections
+ 		-- block creation
+ 			--- http://dana.org/About/DABI/Members/
+ 		-- section creation 
+ 			--- http://dana.org/About/DABI/Members/
+ 		-- fields analysis
+ 		 	--- http://dana.org/About/DABI/Members/
+ 		-- fields 
+ 		-- scraping 
+ 		-- nlp title, description for tagging
+ 		"high priority"
+
+order 
+	- redesign user experience 
+ 		-- http://www.dana.org/danaalliances/publications/orderform.aspx
+ 		-- http://dana.org/scoutsorderform/
+ 		"medium priority"
+
+videos multimedia
+	- collections 
+ 		-- scraping
+ 			--- video from youtube for better user experience 
+ 			--- video from youtube playlist for better user experience
+ 			--- video from youtube playlist for better user experience information architecture 
+ 					---- departments
+ 					---- terms
+ 		-- nlp title, description for tagging
+ 		"medium priority"
+
+members 
+	- collections
+ 	"high priority"
+		
+news
+	- collections 
+ 	"medium priority"
+
+
+grants
+	- collections
+		-- page 
+ 		-- block creation 
+ 		-- section creation  
+ 		-- fields analysis 
+ 		-- fields 
+ 		-- scraping  
+ 		-- http://www.dana.org/grants/discontinued/education/
+ 		-- http://www.dana.org/grants/discontinued/arteducation/
+ 		-- http://www.dana.org/Media/GrantsDetails.aspx?id=38461
+ 		-- http://www.dana.org/Media/GrantsDetails.aspx?id=38836
+ 		-- grants
+ 			--- title field
+ 			--- author field
+ 			--- organization field
+
+ 			--- funded date field
+ 			--- funded date year field
+ 			--- funded amount field
+ 			--- funded number of years
+
+   			--- lay summary field
+   			--- abstract field
+   			--- hypothesis field
+   			--- biograpy field
+   			--- publications field
+   			--- findings field
+   					---- finding lay summary field
+   					---- finding lay result field
+   			--- keywords field
+    				---- functinon
+    				---- conditions
+    				---- technology
+    				---- anatomy
+		"some grants list has no description"
+ 		"medium priority"
+ 
+baw gallery
+	- collections
+	"moderate priority"
+
+baw partners
+	- collections
+	"moderate priority"
+
+baw reports
+	- collections
+	"moderate priority"
+brain disorders 
+	- collections
+ 		-- block creation
+ 		-- section creation
+ 		-- fields analysis
+ 		-- fields 
+ 		-- scraping 
+ 		"moderate priority"
+
+brain terms 
+	- collections
+	- app development  
+ 		"moderate priority"
+
+dana
+	- collections
+	- app
+		-- app for updated timeline
+		-- app for updated timelinedabi
+		"moderate priority"
+
+brain terms 
+	- app development  
+ 	"moderate priority"
+
+authors 
+	- collections
+ 	"low priority"
+
+shared
+	- collections
+	"low priority"
+	
+ archive
+	- http://dana.org/News/Archive/
+	- http://dana.org/publications/StayingSharpArchives/
+	- http://www.dana.org/About/EDAB/archives/
+		-- collections
+ 			--- block creation
+ 			--- section creation
+ 			--- fields analysis
+ 			--- fields 
+ 			--- scraping
+ 			"low priority"
+
+search
+
+ux
+
+app
+
+
+ 
+
+
+
