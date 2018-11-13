@@ -6,19 +6,55 @@ podcasts
  					---- terms
  		"high priority"
 
-cerebrum 
+articles cerebrum 
+	- collections
+ 		-- scraping 
+ 		-- nlp title, description for tagging
+ 		"high priority"
+"some list has no img thumbnail" 
+"some list has multiple author(s)" 
+"... 2012 has author(s) in list"
+"2012 ... has author(s) in detail"	
+"author(s) matching only for the cerebrum..."
+"...2015 has articles qa in detail"
+"...2016 has podcasts in detail"
+
+articles 
+	- collections
+ 		-- scraping 
+ 		-- nlp title, description for tagging
+ 		"high priority"
+"some list " 		
+
+
+articles bitn 
 	- collections
  		"high priority"
 
-publications 
+articles qa
 	- collections
- 		"high priority"
- 	- app
- 		-- app_publications_books_subrights for pat mangini
+		"issue list has an extra title as summary"
 
-bitn 
+articles briefing papers
 	- collections
+		"issue list has an extra title as summary"
+
+articles neuroethics
+	- collections
+		"issue list has an extra title as summary"
+
+articles report on progress
+	- collections
+		"sorted by date year"
+
+articles publications in the lab
+
+articles news archive 
+	- collections
+ 		-- scraping 
+ 		-- nlp title, description for tagging
  		"high priority"
+"how news articles are related"
 
 baw events
 	- collections
@@ -36,6 +72,13 @@ events
  		-- scraping 
  		-- nlp title, description for tagging
  		"high priority"
+
+
+publications 
+	- collections
+ 		"high priority"
+ 	- app
+ 		-- app_publications_books_subrights for pat mangini
 
 order 
 	- redesign user experience 
@@ -162,6 +205,7 @@ search
 ux
 
 app
+
 
 
  
