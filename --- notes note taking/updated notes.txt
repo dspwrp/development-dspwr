@@ -1,110 +1,149 @@
 podcasts
 	- collections 
+		-- update podcast(s)
  		-- scraping 
- 			--- podcast from programs_dabi section for better user experience information architecture 
- 					---- departments
- 					---- terms
- 		"high priority"
+ 			--- extract podcasts related to programs_dabi members for better user experience and information architecture 
+ 		-- nlp for generating tags from:
+	 		--- cerebrum article
+	 		--- cerebrum podcast
+	 		--- cerebrum related articles
+		-- patterns
+	 		--- patterns
+	 	-- list and detail html code links update
+	 		--- article
+	 		--- image
+ 	"high priority"
 
-articles cerebrum 
-	- collections
- 		-- scraping 
- 		-- nlp title, description for tagging
- 		"high priority"
-"some list has no img thumbnail" 
-"some list has multiple author(s)" 
-"... 2012 has author(s) in list"
-"2012 ... has author(s) in detail"	
-"author(s) matching only for the cerebrum..."
-"...2015 has articles qa in detail"
-"...2016 has podcasts in detail"
-
-articles 
-	- collections
- 		-- scraping 
- 		-- nlp title, description for tagging
- 		"high priority"
-"some list " 		
-
-
-articles bitn 
-	- collections
- 		"high priority"
-
-articles qa
-	- collections
-		"issue list has an extra title as summary"
-
-articles briefing papers
-	- collections
-		"issue list has an extra title as summary"
-
-articles neuroethics
-	- collections
-		"issue list has an extra title as summary"
-
-articles report on progress
-	- collections
-		"sorted by date year"
-
-articles publications in the lab
-
-articles news archive 
-	- collections
- 		-- scraping 
- 		-- nlp title, description for tagging
- 		"high priority"
-"how news articles are related"
-
-baw events
-	- collections
-	"high priority"
+articles
+	articles cerebrum 
+		- collections
+	 		-- scraping 
+	 			--- scrape 2009 - 1998
+	 			--- extract cerebrum article list html code
+	 			--- extract cerebrum article detail html code
+	 			--- extract fields from list, detail html code 
+	 			--- merge fields based on list_title_url
+	 			--- extracting list and detail keep resolving links url articles and images
+	 		-- transforming 
+	 		-- nlp for generating tags from:
+	 			--- cerebrum article
+	 			--- cerebrum related articles
+	 		-- patterns
+	 			--- patterns
+	 		-- list and detail html code internal links update
+		 		--- article
+		 		--- image
+	 		-- notes
+	 			scraping
+	 				---"some list has no img thumbnail" 
+					--- "some list has multiple author(s)" 
+					--- "2018 - 2012 has author(s) in list"
+					--- "2012 - 1998 has author(s) in detail"	
+					--- "2018 - 2015 has articles qa in detail"
+					--- "2018 - 2016 has podcasts in detail"	
+					--- "match author(s) with statamic authors or dana.org authors only for the cerebrum articles..."
+	 	"high priority"
 
 events
-	- collections
- 		-- block creation
- 			--- http://dana.org/About/DABI/Members/
- 		-- section creation 
- 			--- http://dana.org/About/DABI/Members/
- 		-- fields analysis
- 		 	--- http://dana.org/About/DABI/Members/
- 		-- fields 
- 		-- scraping 
- 		-- nlp title, description for tagging
- 		"high priority"
-
+	events programs dabi baw
+		- collections
+			-- update podcast(s)
+			-- transforming
+				--- fields
+						---- list_event_address
+						---- list_event_address_long_lat
+			-- nlp for generating tags from:
+	 			--- list_title, list_event_description, list_event_type, list_event_audience for event(s) categorization
+	 		-- map
+	 		-- data visualization
+		"high priority"
 
 publications 
-	- collections
- 		"high priority"
- 	- app
- 		-- app_publications_books_subrights for pat mangini
+	publications books
+		- collections
+			-- scraping
+				--- extract chapter, endorsement, table of contents, edited by, foreword, isbn, paperback, published date and description
+			-- outsouring
+	 	"high priority" 
 
 order 
-	- redesign user experience 
- 		-- http://www.dana.org/danaalliances/publications/orderform.aspx
- 		-- http://dana.org/scoutsorderform/
- 		"medium priority"
-
-videos multimedia
-	- collections 
- 		-- scraping
- 			--- video from youtube for better user experience 
- 			--- video from youtube playlist for better user experience
- 			--- video from youtube playlist for better user experience information architecture 
- 					---- departments
- 					---- terms
- 		-- nlp title, description for tagging
- 		"medium priority"
+	- redesign
+		-- updates
+			--- modern
+			--- ux
+				---- http://www.dana.org/danaalliances/publications/orderform.aspx
+		 		---- http://dana.org/scoutsorderform/
+ 	"high priority"
 
 members 
 	- collections
+		-- scraping 
+			--- collections_members_programs_edab
+			--- collections_members_programs_dabi
+		-- country data visualization
+		-- outsouring
  	"high priority"
-		
-news
-	- collections 
- 	"medium priority"
 
+videos
+	- collections 
+		-- video youtube player
+ 		-- scraping
+ 			--- video from youtube (videos) for better user experience information architecture
+ 			--- video from youtube (playlists) dana for better user experience information architecture
+ 			--- video from youtube (playlists) members experts for better user experience information architecture 
+			--- video_dana_programs_dabi_autism
+			--- video_dana_programs_dabi_successful_aging 
+			--- video_dana_programs_dabi_successful_aging_secrets
+			--- video_dana_programs_dabi_members_brain_tumor
+			--- video_dana_programs_dabi_aaas
+			--- video_dana_society_neuroscience 
+			--- video_dana_capitol_hill_briefings
+ 					---- departments
+ 					---- terms
+ 			--- video from youtube (playlists) categorization by dana, experts, programs and tags
+ 		-- scraping extraction
+ 			--- information architecture
+ 		-- nlp for generating tags from:
+ 			--- videos title
+ 			--- videos description
+ 			--- videos
+ 		-- outsourcing
+ 		"high priority"
+
+brain disorders 
+	- collections 
+ 		-- scraping 
+ 		-- outsourcing
+ 	"high priority"
+
+brain terms 
+	- collections 
+ 		-- scraping 
+ 		-- outsourcing
+ 	"high priority"
+
+dspwr
+modern
+	- xxx
+ 	"high priority"
+
+ux
+	- xxx
+ 	"high priority"
+
+features
+	- xxx
+ 	"high priority"
+
+search
+	- xxx
+ 	"high priority"
+
+apps
+-- app_publications_books_subrights for pat mangini 
+	- xxx
+	-- outsourcing
+ 	"high priority"
 
 grants
 	- collections
@@ -143,31 +182,77 @@ grants
     				---- anatomy
 		"some grants list has no description"
  		"medium priority"
- 
-baw gallery
-	- collections
-	"moderate priority"
+-- data visualization
+articles
+	articles bitn 
+		- collections
+	 		-- scraping  
+	 			--- extract bitn article list html code
+	 			--- extract bitn article detail html code
+	 			--- extract fields from list, detail html code 
+	 			--- merge fields based on list_title_url
+	 			--- extracting list and detail keep resolving links url articles and images
+	 		-- transforming  
+	 		-- patterns
+	 			--- patterns
+	 		-- list and detail html code links update
+		 		--- article
+		 		--- image
+	 		-- notes
+	 			scraping
+	 				---""  
+	 		"medium priority"
 
-baw partners
-	- collections
-	"moderate priority"
+articles
+	articles news archive 
+		- collections
+	 		-- scraping  
+	 			--- extract news archive article list html code
+	 			--- extract news archive article detail html code
+	 			--- extract fields from list, detail html code 
+	 			--- merge fields based on list_title_url
+	 			--- extracting list and detail keep resolving links url articles and images
+	 		-- transforming  
+	 		-- patterns
+	 			--- patterns
+	 		-- list and detail html code links update
+		 		--- article
+		 		--- image
+	 		-- notes
+	 			scraping
+	 				---""  
+	 		"medium priority"
 
-baw reports
-	- collections
-	"moderate priority"
-brain disorders 
-	- collections
- 		-- block creation
- 		-- section creation
- 		-- fields analysis
- 		-- fields 
- 		-- scraping 
- 		"moderate priority"
-
-brain terms 
-	- collections
-	- app development  
- 		"moderate priority"
+articles
+	articles qa
+	articles qa grants
+	articles programs dabi in the lab
+	articles programs dabi interviews and qa 
+	articles programs dabi interviews baw
+	articles report on progress dana
+	articles primers dana
+	articles briefing papers dana
+	articles neuro ethics dana
+		- collections
+	 		-- scraping  
+	 			--- extract news archive article list html code
+	 			--- extract news archive article detail html code
+	 			--- extract fields from list, detail html code  
+	 			--- extracting list and detail keep resolving links url articles and images
+	 		-- transforming  
+	 		-- patterns
+	 			--- patterns
+	 		-- list and detail html code links update
+		 		--- article
+		 		--- image
+	 		-- notes
+	 			scraping
+	 				--- "articles qa grants are organized by year"  
+	 				--- "articles report on progress are organized by year" 
+	 				--- "articles programs dabi interviews baw external links to blog articles categorized by year"
+	 				--- "articles riefing papers list has an extra title as summary"
+					--- "articles neuro ethicss list has an extra title as summary"
+	 		"moderate priority"
 
 dana
 	- collections
@@ -176,9 +261,30 @@ dana
 		-- app for updated timelinedabi
 		"moderate priority"
 
-brain terms 
-	- app development  
- 	"moderate priority"
+events
+	events dana
+		- collections
+			-- update podcast(s) 
+				--- http://dana.org/events/
+	 		-- scraping 
+	 			--- http://dana.org/About/EDAB/ 
+	 	 	-- nlp for generating tags from:
+	 			--- http://dana.org/About/EDAB/  
+		"moderate priority"
+
+baw
+	- collections
+	baw gallery
+		- collections
+		"moderate priority"
+
+	baw partners
+		- collections
+		"moderate priority"
+
+	baw reports
+		- collections
+		"moderate priority"
 
 authors 
 	- collections
@@ -187,8 +293,10 @@ authors
 shared
 	- collections
 	"low priority"
-	
+
  archive
+ 	- collections
+ 	
 	- http://dana.org/News/Archive/
 	- http://dana.org/publications/StayingSharpArchives/
 	- http://www.dana.org/About/EDAB/archives/
@@ -200,11 +308,8 @@ shared
  			--- scraping
  			"low priority"
 
-search
 
-ux
 
-app
 
 
 

@@ -65,7 +65,12 @@ detail_html_code_teaser
       detail_rel_video
  
  list_date  list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_rel_video  detail_html_code  detail_comments
+ 
+ 
+ key  page_title  page_list_title_url page_list_summary   html_code tags  list_date   list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month  detail_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_html_code  detail_references detail_comments 
 
+list_event_date list_event_start_date list_event_end_date list_event_description  list_event_institution  list_event_institution_sponsor  list_event_address_name list_event_address  list_event_address_long_lat list_event_type list_event_audience list_event_registration list_event_contact_name list_event_contact_phone  list_event_contact_fax  list_event_contact_email  list_event_website
 
+key page_title  page_list_title_url page_list_summary   html_code tags  list_date list_title  list_title_url  list_description  member_author_name  member_author_img member_author_bio_description member_experts_name member_experts_country  member_experts_organization member_experts_wiki member_experts_resources
 
-
+member_experts_resources_videos member_experts_resources_others
