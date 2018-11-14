@@ -12,7 +12,7 @@ podcasts
 	 	-- list and detail html code links update
 	 		--- article
 	 		--- image
- 		"high priority"
+ 	"high priority"
 
 articles
 	articles cerebrum 
@@ -42,58 +42,87 @@ articles
 					--- "2018 - 2015 has articles qa in detail"
 					--- "2018 - 2016 has podcasts in detail"	
 					--- "match author(s) with statamic authors or dana.org authors only for the cerebrum articles..."
-	 		"high priority"
+	 	"high priority"
 
 events
-	events baw
-	- collections
-	"high priority"
+	events programs dabi baw
+		- collections
+			-- update podcast(s)
+			-- transforming
+				--- fields
+						---- list_event_address
+						---- list_event_address_long_lat
+			-- nlp for generating tags from:
+	 			--- list_title, list_event_description, list_event_type, list_event_audience for event(s) categorization
+	 		-- map
+	 		-- data visualization
+		"high priority"
 
 publications 
-	- collections
- 		"high priority"
- 	- app
- 		-- app_publications_books_subrights for pat mangini
+	publications books
+		- collections
+			-- scraping
+				--- extract chapter, endorsement, table of contents, edited by, foreword, isbn, paperback, published date and description
+			-- outsouring
+	 	"high priority" 
 
 order 
-	- redesign user experience 
- 		-- http://www.dana.org/danaalliances/publications/orderform.aspx
- 		-- http://dana.org/scoutsorderform/
- 		"high priority"
+	- redesign
+		-- updates
+			--- modern
+			--- ux
+				---- http://www.dana.org/danaalliances/publications/orderform.aspx
+		 		---- http://dana.org/scoutsorderform/
+ 	"high priority"
 
 members 
 	- collections
+		-- scraping 
+			--- collections_members_programs_edab
+			--- collections_members_programs_dabi
+		-- country data visualization
+		-- outsouring
  	"high priority"
 
 videos
 	- collections 
+		-- video youtube player
  		-- scraping
- 			--- video from youtube for better user experience 
- 			--- video from youtube playlist for better user experience
- 			--- video from youtube playlist for better user experience information architecture 
+ 			--- video from youtube (videos) for better user experience information architecture
+ 			--- video from youtube (playlists) dana for better user experience information architecture
+ 			--- video from youtube (playlists) members experts for better user experience information architecture 
+			--- video_dana_programs_dabi_autism
+			--- video_dana_programs_dabi_successful_aging 
+			--- video_dana_programs_dabi_successful_aging_secrets
+			--- video_dana_programs_dabi_members_brain_tumor
+			--- video_dana_programs_dabi_aaas
+			--- video_dana_society_neuroscience 
+			--- video_dana_capitol_hill_briefings
  					---- departments
  					---- terms
- 		-- nlp title, description for tagging
+ 			--- video from youtube (playlists) categorization by dana, experts, programs and tags
+ 		-- scraping extraction
+ 			--- information architecture
+ 		-- nlp for generating tags from:
+ 			--- videos title
+ 			--- videos description
+ 			--- videos
+ 		-- outsourcing
  		"high priority"
 
 brain disorders 
-	- collections
- 		-- block creation
- 		-- section creation
- 		-- fields analysis
- 		-- fields 
+	- collections 
  		-- scraping 
- 		"high priority"
-
-brain terms 
-	- collections
-	- app development  
- 		"high priority"
-
-brain terms 
-	- app development  
+ 		-- outsourcing
  	"high priority"
 
+brain terms 
+	- collections 
+ 		-- scraping 
+ 		-- outsourcing
+ 	"high priority"
+
+dspwr
 modern
 	- xxx
  	"high priority"
@@ -111,7 +140,9 @@ search
  	"high priority"
 
 apps
+-- app_publications_books_subrights for pat mangini 
 	- xxx
+	-- outsourcing
  	"high priority"
 
 grants
@@ -151,7 +182,7 @@ grants
     				---- anatomy
 		"some grants list has no description"
  		"medium priority"
-
+-- data visualization
 articles
 	articles bitn 
 		- collections
@@ -231,17 +262,15 @@ dana
 		"moderate priority"
 
 events
-	- collections
- 		-- block creation
- 			--- http://dana.org/About/DABI/Members/
- 		-- section creation 
- 			--- http://dana.org/About/DABI/Members/
- 		-- fields analysis
- 		 	--- http://dana.org/About/DABI/Members/
- 		-- fields 
- 		-- scraping 
- 		-- nlp title, description for tagging
- 		"moderate priority"
+	events dana
+		- collections
+			-- update podcast(s) 
+				--- http://dana.org/events/
+	 		-- scraping 
+	 			--- http://dana.org/About/EDAB/ 
+	 	 	-- nlp for generating tags from:
+	 			--- http://dana.org/About/EDAB/  
+		"moderate priority"
 
 baw
 	- collections
