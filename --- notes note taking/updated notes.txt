@@ -6,8 +6,9 @@ podcasts
  					---- terms
  		"high priority"
 
-cerebrum 
-	- collections
+articles
+	articles cerebrum 
+		- collections
  		"high priority"
 
 publications 
