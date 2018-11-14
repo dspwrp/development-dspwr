@@ -86,29 +86,31 @@ members
 
 videos
 	- collections 
-		-- video youtube player
- 		-- scraping
- 			--- video from youtube (videos) for better user experience information architecture
- 			--- video from youtube (playlists) dana for better user experience information architecture
- 			--- video from youtube (playlists) members experts for better user experience information architecture 
-			--- video_dana_programs_dabi_autism
-			--- video_dana_programs_dabi_successful_aging 
-			--- video_dana_programs_dabi_successful_aging_secrets
-			--- video_dana_programs_dabi_members_brain_tumor
-			--- video_dana_programs_dabi_aaas
-			--- video_dana_society_neuroscience 
-			--- video_dana_capitol_hill_briefings
- 					---- departments
- 					---- terms
- 			--- video from youtube (playlists) categorization by dana, experts, programs and tags
- 		-- scraping extraction
- 			--- information architecture
- 		-- nlp for generating tags from:
- 			--- videos title
- 			--- videos description
- 			--- videos
+		-- dana
+			keys
+			--- aaas
+			--- nih
+			--- grants
+					---- capitol hill briefings
+							----- https://www.youtube.com/playlist?list=PLAP1fktTMLQWQ_EbPihkEvNDWQz5lbaUi
+			--- dabi
+					---- experts
+					---- staying sharp
+					---- successful aging
+					---- baw
+			--- edab
+					---- successful ageing
+			--- the dean witter foundation
+			--- neuroscience and society series
+			--- buildings and the brain 
+			--- neurotechnology 
+		-- nlp for generating tags from:
+			--- videos 
+ 					---- videos title
+ 					---- videos description
+ 					---- videos
  		-- outsourcing
- 		"high priority"
+ 	"high priority"
 
 brain disorders 
 	- collections 
@@ -144,45 +146,45 @@ apps
 	- xxx
 	-- outsourcing
  	"high priority"
+-- data visualization
 
 grants
 	- collections
-		-- page 
- 		-- block creation 
- 		-- section creation  
- 		-- fields analysis 
  		-- fields 
+ 			--- section creation
  		-- scraping  
- 		-- http://www.dana.org/grants/discontinued/education/
- 		-- http://www.dana.org/grants/discontinued/arteducation/
- 		-- http://www.dana.org/Media/GrantsDetails.aspx?id=38461
- 		-- http://www.dana.org/Media/GrantsDetails.aspx?id=38836
+	 		--- http://www.dana.org/grants/discontinued/education/
+	 		--- http://www.dana.org/grants/discontinued/arteducation/
+	 		--- https://www.youtube.com/playlist?list=PLAP1fktTMLQWQ_EbPihkEvNDWQz5lbaUi
  		-- grants
- 			--- title field
- 			--- author field
- 			--- organization field
+ 			--- fields
+ 					---- title field
+		 			---- author field
+		 			---- organization field
 
- 			--- funded date field
- 			--- funded date year field
- 			--- funded amount field
- 			--- funded number of years
+		 			---- funded date field
+		 			---- funded date year field
+		 			---- funded amount field
+		 			---- funded number of years
 
-   			--- lay summary field
-   			--- abstract field
-   			--- hypothesis field
-   			--- biograpy field
-   			--- publications field
-   			--- findings field
-   					---- finding lay summary field
-   					---- finding lay result field
-   			--- keywords field
-    				---- functinon
-    				---- conditions
-    				---- technology
-    				---- anatomy
-		"some grants list has no description"
- 		"medium priority"
--- data visualization
+		   			---- lay summary field
+		   			---- abstract field
+		   			---- hypothesis field
+		   			---- biograpy field
+		   			---- publications field
+
+   					---- findings field
+		   					----- lay summary field
+		   					----- lay result field
+
+   					---- keywords field
+		    				----- functinon keyword
+		    				----- conditions keyword
+		    				----- technology keyword
+		    				----- anatomy keyword 
+		-- notes
+			--- "some grants list has no description"
+			--- "medium priority"
 articles
 	articles bitn 
 		- collections
@@ -200,7 +202,7 @@ articles
 		 		--- image
 	 		-- notes
 	 			scraping
-	 				---""  
+	 				--- ""  
 	 		"medium priority"
 
 articles
@@ -220,8 +222,15 @@ articles
 		 		--- image
 	 		-- notes
 	 			scraping
-	 				---""  
+	 				--- ""  
 	 		"medium priority"
+
+baw
+	baw reports
+		- collections
+		- notes
+			-- "same structure like events baw events"
+		"medium priority"
 
 articles
 	articles qa
@@ -256,15 +265,22 @@ articles
 
 dana
 	- collections
-	- app
-		-- app for updated timeline
-		-- app for updated timelinedabi
-		"moderate priority"
+		-- scraping
+			--- collections_timeline_dana
+			--- collections_timeline_programs_dabi
+	"moderate priority"
+
+timeline
+	- collections
+		-- scraping
+			--- collections_timeline_dana
+			--- collections_timeline_programs_dabi
+	"moderate priority"
 
 events
 	events dana
 		- collections
-			-- update podcast(s) 
+			-- update event(s) 
 				--- http://dana.org/events/
 	 		-- scraping 
 	 			--- http://dana.org/About/EDAB/ 
@@ -272,41 +288,41 @@ events
 	 			--- http://dana.org/About/EDAB/  
 		"moderate priority"
 
-baw
-	- collections
-	baw gallery
-		- collections
-		"moderate priority"
-
+baw 
 	baw partners
 		- collections
 		"moderate priority"
 
-	baw reports
+baw
+	baw gallery
 		- collections
-		"moderate priority"
+		"low priority"
 
-authors 
+members 
+	members authors
 	- collections
+		-- scraping  
+ 	"low priority"
+
+news 
+	- collections
+		-- scraping  
+			--- http://dana.org/About/DABI/Awards/ 
+			--- http://dana.org/About/EDAB/  
+			--- http://www.dana.org/News/Newsletters/
+			--- http://www.dana.org/News/Pressroom/PressRelease/
  	"low priority"
 
 shared
 	- collections
 	"low priority"
 
- archive
+archive
  	- collections
- 	
-	- http://dana.org/News/Archive/
-	- http://dana.org/publications/StayingSharpArchives/
-	- http://www.dana.org/About/EDAB/archives/
-		-- collections
- 			--- block creation
- 			--- section creation
- 			--- fields analysis
- 			--- fields 
- 			--- scraping
- 			"low priority"
+		-- http://dana.org/News/Archive/
+		-- http://dana.org/publications/StayingSharpArchives/
+		-- http://www.dana.org/About/EDAB/archives/
+ 	"low priority"
 
 
 
