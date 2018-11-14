@@ -45,7 +45,7 @@ articles briefing papers
 	- collections
 		"issue list has an extra title as summary"
 
-articles neuroethics
+articles neuroethicss
 	- collections
 		"issue list has an extra title as summary"
 
