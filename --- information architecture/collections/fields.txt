@@ -65,17 +65,6 @@ detail_html_code_teaser
       detail_rel_video
  
  list_date  list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_rel_video  detail_html_code  detail_comments
-
-
-
-
-<<<<<<< HEAD
-      author_name
-      author_img
-      author_bio
-
-
-key page_title  page_list_title_url page_list_summary   html_code tags  list_date   list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month  detail_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_html_code  detail_references detail_comments 
-
-=======
->>>>>>> 5bb93d33ba1bd627b403b74a4c9858956e958c9d
+ 
+ 
+ key  page_title  page_list_title_url page_list_summary   html_code tags  list_date   list_title  list_title_url  list_description  list_img_thumb  list_author list_html_code  detail_date detail_month  detail_year detail_title  detail_title_url  detail_title_summary  detail_title_description  detail_img_thumb  detail_author detail_rel_img  detail_rel_img_description  detail_rel_pdf   detail_rel_podcast detail_rel_article_qa detail_rel_information  detail_html_code  detail_references detail_comments 
