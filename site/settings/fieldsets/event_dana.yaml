@@ -1,0 +1,35 @@
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        display: title
+        type: text
+        localizable: true
+      list_title_url:
+        type: text
+        display: list_title_url
+      list_organization:
+        type: text
+        display: list_organization
+      list_location_address:
+        type: text
+        display: list_location_address
+      list_start_date:
+        type: text
+        display: list_start_date
+      list_end_date:
+        type: text
+        display: list_end_date
+      list_description:
+        type: text
+        display: list_description
+      tagging:
+        type: tags
+        display: Tagging
+      taxonomize:
+        type: taxonomy
+        display: Taxonomize
+taxonomies: false
+title: Event
+create_title: 'New Event'

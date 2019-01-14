@@ -1,0 +1,8 @@
+app_key: nLU6g1ugQE5qAqN2TflXkGJBKSeUJmmw
+yaml_parser: symfony
+locales:
+  en:
+    full: en_US
+    name: English
+    url: 'http://localhost/'
+timezone: UTC
