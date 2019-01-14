@@ -1,4 +1,0 @@
-- notes
-	-- design components based design for the design systems and themes
-	-- https://medium.com/@wereheavyweight/how-were-using-component-based-design-5f9e3176babb
-	 

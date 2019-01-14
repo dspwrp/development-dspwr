@@ -1,5 +1,0 @@
-information architecture
-collections
-navigation *
-sitemap
-terms
